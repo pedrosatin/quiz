@@ -1,0 +1,4658 @@
+{
+  "version": "2.0",
+  "totalLogos": 464,
+  "categories": [
+    "Alimentação, Moda & Esportes",
+    "Automóveis & Motores",
+    "E-commerce & Varejo",
+    "Finanças & Cripto",
+    "Games & Esportes Eletrônicos",
+    "Mobilidade, Viagem & Transporte",
+    "Redes Sociais & Comunicação",
+    "Software & Ferramentas Dev",
+    "Streaming & Entretenimento",
+    "Tecnologia & Hardware"
+  ],
+  "logos": [
+    {
+      "id": "apple-1",
+      "name": "Apple",
+      "category": "Tecnologia & Hardware",
+      "imageUrl": "/logos/apple.svg",
+      "simpleIconsSlug": "apple",
+      "difficulty": "fácil",
+      "yearFounded": 1976,
+      "country": "EUA"
+    },
+    {
+      "id": "samsung-2",
+      "name": "Samsung",
+      "category": "Tecnologia & Hardware",
+      "imageUrl": "/logos/samsung.svg",
+      "simpleIconsSlug": "samsung",
+      "difficulty": "fácil",
+      "yearFounded": 1969,
+      "country": "Coreia do Sul"
+    },
+    {
+      "id": "intel-3",
+      "name": "Intel",
+      "category": "Tecnologia & Hardware",
+      "imageUrl": "/logos/intel.svg",
+      "simpleIconsSlug": "intel",
+      "difficulty": "fácil",
+      "yearFounded": 1968,
+      "country": "EUA"
+    },
+    {
+      "id": "amd-4",
+      "name": "AMD",
+      "category": "Tecnologia & Hardware",
+      "imageUrl": "/logos/amd.svg",
+      "simpleIconsSlug": "amd",
+      "difficulty": "médio",
+      "yearFounded": 1969,
+      "country": "EUA"
+    },
+    {
+      "id": "nvidia-5",
+      "name": "NVIDIA",
+      "category": "Tecnologia & Hardware",
+      "imageUrl": "/logos/nvidia.svg",
+      "simpleIconsSlug": "nvidia",
+      "difficulty": "fácil",
+      "yearFounded": 1993,
+      "country": "EUA"
+    },
+    {
+      "id": "qualcomm-6",
+      "name": "Qualcomm",
+      "category": "Tecnologia & Hardware",
+      "imageUrl": "/logos/qualcomm.svg",
+      "simpleIconsSlug": "qualcomm",
+      "difficulty": "difícil",
+      "yearFounded": 1985,
+      "country": "EUA"
+    },
+    {
+      "id": "cisco-7",
+      "name": "Cisco",
+      "category": "Tecnologia & Hardware",
+      "imageUrl": "/logos/cisco.svg",
+      "simpleIconsSlug": "cisco",
+      "difficulty": "médio",
+      "yearFounded": 1984,
+      "country": "EUA"
+    },
+    {
+      "id": "dell-8",
+      "name": "Dell",
+      "category": "Tecnologia & Hardware",
+      "imageUrl": "/logos/dell.svg",
+      "simpleIconsSlug": "dell",
+      "difficulty": "fácil",
+      "yearFounded": 1984,
+      "country": "EUA"
+    },
+    {
+      "id": "hp-9",
+      "name": "HP",
+      "category": "Tecnologia & Hardware",
+      "imageUrl": "/logos/hp.svg",
+      "simpleIconsSlug": "hp",
+      "difficulty": "fácil",
+      "yearFounded": 1939,
+      "country": "EUA"
+    },
+    {
+      "id": "lenovo-10",
+      "name": "Lenovo",
+      "category": "Tecnologia & Hardware",
+      "imageUrl": "/logos/lenovo.svg",
+      "simpleIconsSlug": "lenovo",
+      "difficulty": "fácil",
+      "yearFounded": 1984,
+      "country": "China"
+    },
+    {
+      "id": "asus-11",
+      "name": "ASUS",
+      "category": "Tecnologia & Hardware",
+      "imageUrl": "/logos/asus.svg",
+      "simpleIconsSlug": "asus",
+      "difficulty": "fácil",
+      "yearFounded": 1989,
+      "country": "Taiwan"
+    },
+    {
+      "id": "acer-12",
+      "name": "Acer",
+      "category": "Tecnologia & Hardware",
+      "imageUrl": "/logos/acer.svg",
+      "simpleIconsSlug": "acer",
+      "difficulty": "fácil",
+      "yearFounded": 1976,
+      "country": "Taiwan"
+    },
+    {
+      "id": "sony-13",
+      "name": "Sony",
+      "category": "Tecnologia & Hardware",
+      "imageUrl": "/logos/sony.svg",
+      "simpleIconsSlug": "sony",
+      "difficulty": "fácil",
+      "yearFounded": 1946,
+      "country": "Japão"
+    },
+    {
+      "id": "lg-14",
+      "name": "LG",
+      "category": "Tecnologia & Hardware",
+      "imageUrl": "/logos/lg.svg",
+      "simpleIconsSlug": "lg",
+      "difficulty": "fácil",
+      "yearFounded": 1958,
+      "country": "Coreia do Sul"
+    },
+    {
+      "id": "panasonic-15",
+      "name": "Panasonic",
+      "category": "Tecnologia & Hardware",
+      "imageUrl": "/logos/panasonic.svg",
+      "simpleIconsSlug": "panasonic",
+      "difficulty": "fácil",
+      "yearFounded": 1918,
+      "country": "Japão"
+    },
+    {
+      "id": "huawei-16",
+      "name": "Huawei",
+      "category": "Tecnologia & Hardware",
+      "imageUrl": "/logos/huawei.svg",
+      "simpleIconsSlug": "huawei",
+      "difficulty": "fácil",
+      "yearFounded": 1987,
+      "country": "China"
+    },
+    {
+      "id": "xiaomi-17",
+      "name": "Xiaomi",
+      "category": "Tecnologia & Hardware",
+      "imageUrl": "/logos/xiaomi.svg",
+      "simpleIconsSlug": "xiaomi",
+      "difficulty": "médio",
+      "yearFounded": 2010,
+      "country": "China"
+    },
+    {
+      "id": "oneplus-18",
+      "name": "OnePlus",
+      "category": "Tecnologia & Hardware",
+      "imageUrl": "/logos/oneplus.svg",
+      "simpleIconsSlug": "oneplus",
+      "difficulty": "médio",
+      "yearFounded": 2013,
+      "country": "China"
+    },
+    {
+      "id": "motorola-19",
+      "name": "Motorola",
+      "category": "Tecnologia & Hardware",
+      "imageUrl": "/logos/motorola.svg",
+      "simpleIconsSlug": "motorola",
+      "difficulty": "fácil",
+      "yearFounded": 1928,
+      "country": "EUA"
+    },
+    {
+      "id": "nokia-20",
+      "name": "Nokia",
+      "category": "Tecnologia & Hardware",
+      "imageUrl": "/logos/nokia.svg",
+      "simpleIconsSlug": "nokia",
+      "difficulty": "fácil",
+      "yearFounded": 1865,
+      "country": "Finlândia"
+    },
+    {
+      "id": "blackberry-21",
+      "name": "BlackBerry",
+      "category": "Tecnologia & Hardware",
+      "imageUrl": "/logos/blackberry.svg",
+      "simpleIconsSlug": "blackberry",
+      "difficulty": "médio",
+      "yearFounded": 1984,
+      "country": "Canadá"
+    },
+    {
+      "id": "htc-22",
+      "name": "HTC",
+      "category": "Tecnologia & Hardware",
+      "imageUrl": "/logos/htc.svg",
+      "simpleIconsSlug": "htc",
+      "difficulty": "médio",
+      "yearFounded": 1997,
+      "country": "Taiwan"
+    },
+    {
+      "id": "oppo-23",
+      "name": "OPPO",
+      "category": "Tecnologia & Hardware",
+      "imageUrl": "/logos/oppo.svg",
+      "simpleIconsSlug": "oppo",
+      "difficulty": "médio",
+      "yearFounded": 2004,
+      "country": "China"
+    },
+    {
+      "id": "vivo-24",
+      "name": "Vivo",
+      "category": "Tecnologia & Hardware",
+      "imageUrl": "/logos/vivo.svg",
+      "simpleIconsSlug": "vivo",
+      "difficulty": "médio",
+      "yearFounded": 2009,
+      "country": "China"
+    },
+    {
+      "id": "sharp-25",
+      "name": "Sharp",
+      "category": "Tecnologia & Hardware",
+      "imageUrl": "/logos/sharp.svg",
+      "simpleIconsSlug": "sharp",
+      "difficulty": "médio",
+      "yearFounded": 1912,
+      "country": "Japão"
+    },
+    {
+      "id": "toshiba-26",
+      "name": "Toshiba",
+      "category": "Tecnologia & Hardware",
+      "imageUrl": "/logos/toshiba.svg",
+      "simpleIconsSlug": "toshiba",
+      "difficulty": "médio",
+      "yearFounded": 1939,
+      "country": "Japão"
+    },
+    {
+      "id": "fujitsu-27",
+      "name": "Fujitsu",
+      "category": "Tecnologia & Hardware",
+      "imageUrl": "/logos/fujitsu.svg",
+      "simpleIconsSlug": "fujitsu",
+      "difficulty": "difícil",
+      "yearFounded": 1935,
+      "country": "Japão"
+    },
+    {
+      "id": "hitachi-28",
+      "name": "Hitachi",
+      "category": "Tecnologia & Hardware",
+      "imageUrl": "/logos/hitachi.svg",
+      "simpleIconsSlug": "hitachi",
+      "difficulty": "médio",
+      "yearFounded": 1910,
+      "country": "Japão"
+    },
+    {
+      "id": "mediatek-29",
+      "name": "MediaTek",
+      "category": "Tecnologia & Hardware",
+      "imageUrl": "/logos/mediatek.svg",
+      "simpleIconsSlug": "mediatek",
+      "difficulty": "difícil",
+      "yearFounded": 1997,
+      "country": "Taiwan"
+    },
+    {
+      "id": "broadcom-30",
+      "name": "Broadcom",
+      "category": "Tecnologia & Hardware",
+      "imageUrl": "/logos/broadcom.svg",
+      "simpleIconsSlug": "broadcom",
+      "difficulty": "difícil",
+      "yearFounded": 1991,
+      "country": "EUA"
+    },
+    {
+      "id": "arm-31",
+      "name": "ARM",
+      "category": "Tecnologia & Hardware",
+      "imageUrl": "/logos/arm.svg",
+      "simpleIconsSlug": "arm",
+      "difficulty": "difícil",
+      "yearFounded": 1990,
+      "country": "Reino Unido"
+    },
+    {
+      "id": "nxp-32",
+      "name": "NXP",
+      "category": "Tecnologia & Hardware",
+      "imageUrl": "/logos/nxp.svg",
+      "simpleIconsSlug": "nxp",
+      "difficulty": "difícil",
+      "yearFounded": 1953,
+      "country": "Holanda"
+    },
+    {
+      "id": "corsair-33",
+      "name": "Corsair",
+      "category": "Tecnologia & Hardware",
+      "imageUrl": "/logos/corsair.svg",
+      "simpleIconsSlug": "corsair",
+      "difficulty": "médio",
+      "yearFounded": 1994,
+      "country": "EUA"
+    },
+    {
+      "id": "razer-34",
+      "name": "Razer",
+      "category": "Tecnologia & Hardware",
+      "imageUrl": "/logos/razer.svg",
+      "simpleIconsSlug": "razer",
+      "difficulty": "médio",
+      "yearFounded": 2005,
+      "country": "EUA"
+    },
+    {
+      "id": "steelseries-35",
+      "name": "SteelSeries",
+      "category": "Tecnologia & Hardware",
+      "imageUrl": "/logos/steelseries.svg",
+      "simpleIconsSlug": "steelseries",
+      "difficulty": "médio",
+      "yearFounded": 2001,
+      "country": "Dinamarca"
+    },
+    {
+      "id": "hyperx-36",
+      "name": "HyperX",
+      "category": "Tecnologia & Hardware",
+      "imageUrl": "/logos/hyperx.svg",
+      "simpleIconsSlug": "hyperx",
+      "difficulty": "médio",
+      "yearFounded": 2002,
+      "country": "EUA"
+    },
+    {
+      "id": "seagate-37",
+      "name": "Seagate",
+      "category": "Tecnologia & Hardware",
+      "imageUrl": "/logos/seagate.svg",
+      "simpleIconsSlug": "seagate",
+      "difficulty": "médio",
+      "yearFounded": 1978,
+      "country": "EUA"
+    },
+    {
+      "id": "bose-38",
+      "name": "Bose",
+      "category": "Tecnologia & Hardware",
+      "imageUrl": "/logos/bose.svg",
+      "simpleIconsSlug": "bose",
+      "difficulty": "fácil",
+      "yearFounded": 1964,
+      "country": "EUA"
+    },
+    {
+      "id": "jbl-39",
+      "name": "JBL",
+      "category": "Tecnologia & Hardware",
+      "imageUrl": "/logos/jbl.svg",
+      "simpleIconsSlug": "jbl",
+      "difficulty": "fácil",
+      "yearFounded": 1946,
+      "country": "EUA"
+    },
+    {
+      "id": "sennheiser-40",
+      "name": "Sennheiser",
+      "category": "Tecnologia & Hardware",
+      "imageUrl": "/logos/sennheiser.svg",
+      "simpleIconsSlug": "sennheiser",
+      "difficulty": "médio",
+      "yearFounded": 1945,
+      "country": "Alemanha"
+    },
+    {
+      "id": "epson-41",
+      "name": "Epson",
+      "category": "Tecnologia & Hardware",
+      "imageUrl": "/logos/epson.svg",
+      "simpleIconsSlug": "epson",
+      "difficulty": "fácil",
+      "yearFounded": 1942,
+      "country": "Japão"
+    },
+    {
+      "id": "fujifilm-42",
+      "name": "Fujifilm",
+      "category": "Tecnologia & Hardware",
+      "imageUrl": "/logos/fujifilm.svg",
+      "simpleIconsSlug": "fujifilm",
+      "difficulty": "médio",
+      "yearFounded": 1934,
+      "country": "Japão"
+    },
+    {
+      "id": "nikon-43",
+      "name": "Nikon",
+      "category": "Tecnologia & Hardware",
+      "imageUrl": "/logos/nikon.svg",
+      "simpleIconsSlug": "nikon",
+      "difficulty": "fácil",
+      "yearFounded": 1917,
+      "country": "Japão"
+    },
+    {
+      "id": "leica-44",
+      "name": "Leica",
+      "category": "Tecnologia & Hardware",
+      "imageUrl": "/logos/leica.svg",
+      "simpleIconsSlug": "leica",
+      "difficulty": "médio",
+      "yearFounded": 1914,
+      "country": "Alemanha"
+    },
+    {
+      "id": "dji-45",
+      "name": "DJI",
+      "category": "Tecnologia & Hardware",
+      "imageUrl": "/logos/dji.svg",
+      "simpleIconsSlug": "dji",
+      "difficulty": "médio",
+      "yearFounded": 2006,
+      "country": "China"
+    },
+    {
+      "id": "garmin-46",
+      "name": "Garmin",
+      "category": "Tecnologia & Hardware",
+      "imageUrl": "/logos/garmin.svg",
+      "simpleIconsSlug": "garmin",
+      "difficulty": "médio",
+      "yearFounded": 1989,
+      "country": "EUA"
+    },
+    {
+      "id": "fitbit-47",
+      "name": "Fitbit",
+      "category": "Tecnologia & Hardware",
+      "imageUrl": "/logos/fitbit.svg",
+      "simpleIconsSlug": "fitbit",
+      "difficulty": "médio",
+      "yearFounded": 2007,
+      "country": "EUA"
+    },
+    {
+      "id": "beats-48",
+      "name": "Beats",
+      "category": "Tecnologia & Hardware",
+      "imageUrl": "/logos/beats.svg",
+      "simpleIconsSlug": "beats",
+      "difficulty": "fácil",
+      "yearFounded": 2006,
+      "country": "EUA"
+    },
+    {
+      "id": "denon-49",
+      "name": "Denon",
+      "category": "Tecnologia & Hardware",
+      "imageUrl": "/logos/denon.svg",
+      "simpleIconsSlug": "denon",
+      "difficulty": "difícil",
+      "yearFounded": 1910,
+      "country": "Japão"
+    },
+    {
+      "id": "nec-50",
+      "name": "NEC",
+      "category": "Tecnologia & Hardware",
+      "imageUrl": "/logos/nec.svg",
+      "simpleIconsSlug": "nec",
+      "difficulty": "difícil",
+      "yearFounded": 1899,
+      "country": "Japão"
+    },
+    {
+      "id": "github-51",
+      "name": "GitHub",
+      "category": "Software & Ferramentas Dev",
+      "imageUrl": "/logos/github.svg",
+      "simpleIconsSlug": "github",
+      "difficulty": "fácil",
+      "yearFounded": 2008,
+      "country": "EUA"
+    },
+    {
+      "id": "gitlab-52",
+      "name": "GitLab",
+      "category": "Software & Ferramentas Dev",
+      "imageUrl": "/logos/gitlab.svg",
+      "simpleIconsSlug": "gitlab",
+      "difficulty": "médio",
+      "yearFounded": 2011,
+      "country": "EUA"
+    },
+    {
+      "id": "bitbucket-53",
+      "name": "Bitbucket",
+      "category": "Software & Ferramentas Dev",
+      "imageUrl": "/logos/bitbucket.svg",
+      "simpleIconsSlug": "bitbucket",
+      "difficulty": "médio",
+      "yearFounded": 2008,
+      "country": "EUA"
+    },
+    {
+      "id": "docker-54",
+      "name": "Docker",
+      "category": "Software & Ferramentas Dev",
+      "imageUrl": "/logos/docker.svg",
+      "simpleIconsSlug": "docker",
+      "difficulty": "médio",
+      "yearFounded": 2013,
+      "country": "EUA"
+    },
+    {
+      "id": "kubernetes-55",
+      "name": "Kubernetes",
+      "category": "Software & Ferramentas Dev",
+      "imageUrl": "/logos/kubernetes.svg",
+      "simpleIconsSlug": "kubernetes",
+      "difficulty": "difícil",
+      "yearFounded": 2014,
+      "country": "EUA"
+    },
+    {
+      "id": "terraform-56",
+      "name": "Terraform",
+      "category": "Software & Ferramentas Dev",
+      "imageUrl": "/logos/terraform.svg",
+      "simpleIconsSlug": "terraform",
+      "difficulty": "difícil",
+      "yearFounded": 2014,
+      "country": "EUA"
+    },
+    {
+      "id": "ansible-57",
+      "name": "Ansible",
+      "category": "Software & Ferramentas Dev",
+      "imageUrl": "/logos/ansible.svg",
+      "simpleIconsSlug": "ansible",
+      "difficulty": "difícil",
+      "yearFounded": 2012,
+      "country": "EUA"
+    },
+    {
+      "id": "jenkins-58",
+      "name": "Jenkins",
+      "category": "Software & Ferramentas Dev",
+      "imageUrl": "/logos/jenkins.svg",
+      "simpleIconsSlug": "jenkins",
+      "difficulty": "difícil",
+      "yearFounded": 2004,
+      "country": "EUA"
+    },
+    {
+      "id": "circleci-59",
+      "name": "CircleCI",
+      "category": "Software & Ferramentas Dev",
+      "imageUrl": "/logos/circleci.svg",
+      "simpleIconsSlug": "circleci",
+      "difficulty": "difícil",
+      "yearFounded": 2011,
+      "country": "EUA"
+    },
+    {
+      "id": "travisci-60",
+      "name": "Travis CI",
+      "category": "Software & Ferramentas Dev",
+      "imageUrl": "/logos/travisci.svg",
+      "simpleIconsSlug": "travisci",
+      "difficulty": "difícil",
+      "yearFounded": 2011,
+      "country": "Alemanha"
+    },
+    {
+      "id": "githubactions-61",
+      "name": "GitHub Actions",
+      "category": "Software & Ferramentas Dev",
+      "imageUrl": "/logos/githubactions.svg",
+      "simpleIconsSlug": "githubactions",
+      "difficulty": "difícil",
+      "yearFounded": 2018,
+      "country": "EUA"
+    },
+    {
+      "id": "gradle-62",
+      "name": "Gradle",
+      "category": "Software & Ferramentas Dev",
+      "imageUrl": "/logos/gradle.svg",
+      "simpleIconsSlug": "gradle",
+      "difficulty": "difícil",
+      "yearFounded": 2007,
+      "country": "EUA"
+    },
+    {
+      "id": "jetbrains-63",
+      "name": "JetBrains",
+      "category": "Software & Ferramentas Dev",
+      "imageUrl": "/logos/jetbrains.svg",
+      "simpleIconsSlug": "jetbrains",
+      "difficulty": "médio",
+      "yearFounded": 2000,
+      "country": "República Tcheca"
+    },
+    {
+      "id": "pycharm-64",
+      "name": "PyCharm",
+      "category": "Software & Ferramentas Dev",
+      "imageUrl": "/logos/pycharm.svg",
+      "simpleIconsSlug": "pycharm",
+      "difficulty": "médio",
+      "yearFounded": 2010,
+      "country": "República Tcheca"
+    },
+    {
+      "id": "phpstorm-65",
+      "name": "PhpStorm",
+      "category": "Software & Ferramentas Dev",
+      "imageUrl": "/logos/phpstorm.svg",
+      "simpleIconsSlug": "phpstorm",
+      "difficulty": "médio",
+      "yearFounded": 2010,
+      "country": "República Tcheca"
+    },
+    {
+      "id": "webstorm-66",
+      "name": "WebStorm",
+      "category": "Software & Ferramentas Dev",
+      "imageUrl": "/logos/webstorm.svg",
+      "simpleIconsSlug": "webstorm",
+      "difficulty": "médio",
+      "yearFounded": 2010,
+      "country": "República Tcheca"
+    },
+    {
+      "id": "goland-67",
+      "name": "GoLand",
+      "category": "Software & Ferramentas Dev",
+      "imageUrl": "/logos/goland.svg",
+      "simpleIconsSlug": "goland",
+      "difficulty": "difícil",
+      "yearFounded": 2017,
+      "country": "República Tcheca"
+    },
+    {
+      "id": "rubymine-68",
+      "name": "RubyMine",
+      "category": "Software & Ferramentas Dev",
+      "imageUrl": "/logos/rubymine.svg",
+      "simpleIconsSlug": "rubymine",
+      "difficulty": "difícil",
+      "yearFounded": 2008,
+      "country": "República Tcheca"
+    },
+    {
+      "id": "clion-69",
+      "name": "CLion",
+      "category": "Software & Ferramentas Dev",
+      "imageUrl": "/logos/clion.svg",
+      "simpleIconsSlug": "clion",
+      "difficulty": "difícil",
+      "yearFounded": 2015,
+      "country": "República Tcheca"
+    },
+    {
+      "id": "vscodium-70",
+      "name": "VSCodium",
+      "category": "Software & Ferramentas Dev",
+      "imageUrl": "/logos/vscodium.svg",
+      "simpleIconsSlug": "vscodium",
+      "difficulty": "difícil",
+      "yearFounded": 2018,
+      "country": "EUA"
+    },
+    {
+      "id": "vim-71",
+      "name": "Vim",
+      "category": "Software & Ferramentas Dev",
+      "imageUrl": "/logos/vim.svg",
+      "simpleIconsSlug": "vim",
+      "difficulty": "médio",
+      "yearFounded": 1991,
+      "country": "Holanda"
+    },
+    {
+      "id": "neovim-72",
+      "name": "Neovim",
+      "category": "Software & Ferramentas Dev",
+      "imageUrl": "/logos/neovim.svg",
+      "simpleIconsSlug": "neovim",
+      "difficulty": "difícil",
+      "yearFounded": 2014,
+      "country": "Internacional"
+    },
+    {
+      "id": "sublimetext-73",
+      "name": "Sublime Text",
+      "category": "Software & Ferramentas Dev",
+      "imageUrl": "/logos/sublimetext.svg",
+      "simpleIconsSlug": "sublimetext",
+      "difficulty": "médio",
+      "yearFounded": 2008,
+      "country": "Austrália"
+    },
+    {
+      "id": "notepadplusplus-74",
+      "name": "Notepad++",
+      "category": "Software & Ferramentas Dev",
+      "imageUrl": "/logos/notepadplusplus.svg",
+      "simpleIconsSlug": "notepadplusplus",
+      "difficulty": "médio",
+      "yearFounded": 2003,
+      "country": "França"
+    },
+    {
+      "id": "atlassian-75",
+      "name": "Atlassian",
+      "category": "Software & Ferramentas Dev",
+      "imageUrl": "/logos/atlassian.svg",
+      "simpleIconsSlug": "atlassian",
+      "difficulty": "médio",
+      "yearFounded": 2002,
+      "country": "Austrália"
+    },
+    {
+      "id": "jira-76",
+      "name": "Jira",
+      "category": "Software & Ferramentas Dev",
+      "imageUrl": "/logos/jira.svg",
+      "simpleIconsSlug": "jira",
+      "difficulty": "médio",
+      "yearFounded": 2002,
+      "country": "Austrália"
+    },
+    {
+      "id": "confluence-77",
+      "name": "Confluence",
+      "category": "Software & Ferramentas Dev",
+      "imageUrl": "/logos/confluence.svg",
+      "simpleIconsSlug": "confluence",
+      "difficulty": "médio",
+      "yearFounded": 2004,
+      "country": "Austrália"
+    },
+    {
+      "id": "trello-78",
+      "name": "Trello",
+      "category": "Software & Ferramentas Dev",
+      "imageUrl": "/logos/trello.svg",
+      "simpleIconsSlug": "trello",
+      "difficulty": "fácil",
+      "yearFounded": 2011,
+      "country": "EUA"
+    },
+    {
+      "id": "notion-79",
+      "name": "Notion",
+      "category": "Software & Ferramentas Dev",
+      "imageUrl": "/logos/notion.svg",
+      "simpleIconsSlug": "notion",
+      "difficulty": "fácil",
+      "yearFounded": 2016,
+      "country": "EUA"
+    },
+    {
+      "id": "figma-80",
+      "name": "Figma",
+      "category": "Software & Ferramentas Dev",
+      "imageUrl": "/logos/figma.svg",
+      "simpleIconsSlug": "figma",
+      "difficulty": "fácil",
+      "yearFounded": 2012,
+      "country": "EUA"
+    },
+    {
+      "id": "miro-81",
+      "name": "Miro",
+      "category": "Software & Ferramentas Dev",
+      "imageUrl": "/logos/miro.svg",
+      "simpleIconsSlug": "miro",
+      "difficulty": "médio",
+      "yearFounded": 2011,
+      "country": "EUA"
+    },
+    {
+      "id": "asana-82",
+      "name": "Asana",
+      "category": "Software & Ferramentas Dev",
+      "imageUrl": "/logos/asana.svg",
+      "simpleIconsSlug": "asana",
+      "difficulty": "médio",
+      "yearFounded": 2008,
+      "country": "EUA"
+    },
+    {
+      "id": "linear-83",
+      "name": "Linear",
+      "category": "Software & Ferramentas Dev",
+      "imageUrl": "/logos/linear.svg",
+      "simpleIconsSlug": "linear",
+      "difficulty": "difícil",
+      "yearFounded": 2019,
+      "country": "EUA"
+    },
+    {
+      "id": "mongodb-84",
+      "name": "MongoDB",
+      "category": "Software & Ferramentas Dev",
+      "imageUrl": "/logos/mongodb.svg",
+      "simpleIconsSlug": "mongodb",
+      "difficulty": "médio",
+      "yearFounded": 2009,
+      "country": "EUA"
+    },
+    {
+      "id": "postgresql-85",
+      "name": "PostgreSQL",
+      "category": "Software & Ferramentas Dev",
+      "imageUrl": "/logos/postgresql.svg",
+      "simpleIconsSlug": "postgresql",
+      "difficulty": "médio",
+      "yearFounded": 1996,
+      "country": "EUA"
+    },
+    {
+      "id": "mysql-86",
+      "name": "MySQL",
+      "category": "Software & Ferramentas Dev",
+      "imageUrl": "/logos/mysql.svg",
+      "simpleIconsSlug": "mysql",
+      "difficulty": "médio",
+      "yearFounded": 1995,
+      "country": "Suécia"
+    },
+    {
+      "id": "redis-87",
+      "name": "Redis",
+      "category": "Software & Ferramentas Dev",
+      "imageUrl": "/logos/redis.svg",
+      "simpleIconsSlug": "redis",
+      "difficulty": "médio",
+      "yearFounded": 2009,
+      "country": "Itália"
+    },
+    {
+      "id": "elasticsearch-88",
+      "name": "Elasticsearch",
+      "category": "Software & Ferramentas Dev",
+      "imageUrl": "/logos/elasticsearch.svg",
+      "simpleIconsSlug": "elasticsearch",
+      "difficulty": "difícil",
+      "yearFounded": 2010,
+      "country": "EUA"
+    },
+    {
+      "id": "mariadb-89",
+      "name": "MariaDB",
+      "category": "Software & Ferramentas Dev",
+      "imageUrl": "/logos/mariadb.svg",
+      "simpleIconsSlug": "mariadb",
+      "difficulty": "médio",
+      "yearFounded": 2009,
+      "country": "Finlândia"
+    },
+    {
+      "id": "sqlite-90",
+      "name": "SQLite",
+      "category": "Software & Ferramentas Dev",
+      "imageUrl": "/logos/sqlite.svg",
+      "simpleIconsSlug": "sqlite",
+      "difficulty": "médio",
+      "yearFounded": 2000,
+      "country": "EUA"
+    },
+    {
+      "id": "googlecloud-91",
+      "name": "Google Cloud",
+      "category": "Software & Ferramentas Dev",
+      "imageUrl": "/logos/googlecloud.svg",
+      "simpleIconsSlug": "googlecloud",
+      "difficulty": "médio",
+      "yearFounded": 2008,
+      "country": "EUA"
+    },
+    {
+      "id": "digitalocean-92",
+      "name": "DigitalOcean",
+      "category": "Software & Ferramentas Dev",
+      "imageUrl": "/logos/digitalocean.svg",
+      "simpleIconsSlug": "digitalocean",
+      "difficulty": "médio",
+      "yearFounded": 2011,
+      "country": "EUA"
+    },
+    {
+      "id": "vercel-93",
+      "name": "Vercel",
+      "category": "Software & Ferramentas Dev",
+      "imageUrl": "/logos/vercel.svg",
+      "simpleIconsSlug": "vercel",
+      "difficulty": "médio",
+      "yearFounded": 2015,
+      "country": "EUA"
+    },
+    {
+      "id": "netlify-94",
+      "name": "Netlify",
+      "category": "Software & Ferramentas Dev",
+      "imageUrl": "/logos/netlify.svg",
+      "simpleIconsSlug": "netlify",
+      "difficulty": "médio",
+      "yearFounded": 2014,
+      "country": "EUA"
+    },
+    {
+      "id": "vultr-95",
+      "name": "Vultr",
+      "category": "Software & Ferramentas Dev",
+      "imageUrl": "/logos/vultr.svg",
+      "simpleIconsSlug": "vultr",
+      "difficulty": "difícil",
+      "yearFounded": 2014,
+      "country": "EUA"
+    },
+    {
+      "id": "cloudflare-96",
+      "name": "Cloudflare",
+      "category": "Software & Ferramentas Dev",
+      "imageUrl": "/logos/cloudflare.svg",
+      "simpleIconsSlug": "cloudflare",
+      "difficulty": "médio",
+      "yearFounded": 2009,
+      "country": "EUA"
+    },
+    {
+      "id": "fastly-97",
+      "name": "Fastly",
+      "category": "Software & Ferramentas Dev",
+      "imageUrl": "/logos/fastly.svg",
+      "simpleIconsSlug": "fastly",
+      "difficulty": "difícil",
+      "yearFounded": 2011,
+      "country": "EUA"
+    },
+    {
+      "id": "akamai-98",
+      "name": "Akamai",
+      "category": "Software & Ferramentas Dev",
+      "imageUrl": "/logos/akamai.svg",
+      "simpleIconsSlug": "akamai",
+      "difficulty": "difícil",
+      "yearFounded": 1998,
+      "country": "EUA"
+    },
+    {
+      "id": "render-99",
+      "name": "Render",
+      "category": "Software & Ferramentas Dev",
+      "imageUrl": "/logos/render.svg",
+      "simpleIconsSlug": "render",
+      "difficulty": "difícil",
+      "yearFounded": 2018,
+      "country": "EUA"
+    },
+    {
+      "id": "railway-100",
+      "name": "Railway",
+      "category": "Software & Ferramentas Dev",
+      "imageUrl": "/logos/railway.svg",
+      "simpleIconsSlug": "railway",
+      "difficulty": "difícil",
+      "yearFounded": 2020,
+      "country": "EUA"
+    },
+    {
+      "id": "facebook-101",
+      "name": "Facebook",
+      "category": "Redes Sociais & Comunicação",
+      "imageUrl": "/logos/facebook.svg",
+      "simpleIconsSlug": "facebook",
+      "difficulty": "fácil",
+      "yearFounded": 2004,
+      "country": "EUA"
+    },
+    {
+      "id": "instagram-102",
+      "name": "Instagram",
+      "category": "Redes Sociais & Comunicação",
+      "imageUrl": "/logos/instagram.svg",
+      "simpleIconsSlug": "instagram",
+      "difficulty": "fácil",
+      "yearFounded": 2010,
+      "country": "EUA"
+    },
+    {
+      "id": "whatsapp-103",
+      "name": "WhatsApp",
+      "category": "Redes Sociais & Comunicação",
+      "imageUrl": "/logos/whatsapp.svg",
+      "simpleIconsSlug": "whatsapp",
+      "difficulty": "fácil",
+      "yearFounded": 2009,
+      "country": "EUA"
+    },
+    {
+      "id": "x-104",
+      "name": "X (Twitter)",
+      "category": "Redes Sociais & Comunicação",
+      "imageUrl": "/logos/x.svg",
+      "simpleIconsSlug": "x",
+      "difficulty": "fácil",
+      "yearFounded": 2006,
+      "country": "EUA"
+    },
+    {
+      "id": "tiktok-105",
+      "name": "TikTok",
+      "category": "Redes Sociais & Comunicação",
+      "imageUrl": "/logos/tiktok.svg",
+      "simpleIconsSlug": "tiktok",
+      "difficulty": "fácil",
+      "yearFounded": 2016,
+      "country": "China"
+    },
+    {
+      "id": "youtube-106",
+      "name": "YouTube",
+      "category": "Redes Sociais & Comunicação",
+      "imageUrl": "/logos/youtube.svg",
+      "simpleIconsSlug": "youtube",
+      "difficulty": "fácil",
+      "yearFounded": 2005,
+      "country": "EUA"
+    },
+    {
+      "id": "pinterest-107",
+      "name": "Pinterest",
+      "category": "Redes Sociais & Comunicação",
+      "imageUrl": "/logos/pinterest.svg",
+      "simpleIconsSlug": "pinterest",
+      "difficulty": "fácil",
+      "yearFounded": 2009,
+      "country": "EUA"
+    },
+    {
+      "id": "snapchat-108",
+      "name": "Snapchat",
+      "category": "Redes Sociais & Comunicação",
+      "imageUrl": "/logos/snapchat.svg",
+      "simpleIconsSlug": "snapchat",
+      "difficulty": "fácil",
+      "yearFounded": 2011,
+      "country": "EUA"
+    },
+    {
+      "id": "reddit-109",
+      "name": "Reddit",
+      "category": "Redes Sociais & Comunicação",
+      "imageUrl": "/logos/reddit.svg",
+      "simpleIconsSlug": "reddit",
+      "difficulty": "fácil",
+      "yearFounded": 2005,
+      "country": "EUA"
+    },
+    {
+      "id": "tumblr-110",
+      "name": "Tumblr",
+      "category": "Redes Sociais & Comunicação",
+      "imageUrl": "/logos/tumblr.svg",
+      "simpleIconsSlug": "tumblr",
+      "difficulty": "médio",
+      "yearFounded": 2007,
+      "country": "EUA"
+    },
+    {
+      "id": "discord-111",
+      "name": "Discord",
+      "category": "Redes Sociais & Comunicação",
+      "imageUrl": "/logos/discord.svg",
+      "simpleIconsSlug": "discord",
+      "difficulty": "fácil",
+      "yearFounded": 2015,
+      "country": "EUA"
+    },
+    {
+      "id": "telegram-112",
+      "name": "Telegram",
+      "category": "Redes Sociais & Comunicação",
+      "imageUrl": "/logos/telegram.svg",
+      "simpleIconsSlug": "telegram",
+      "difficulty": "fácil",
+      "yearFounded": 2013,
+      "country": "Alemanha"
+    },
+    {
+      "id": "signal-113",
+      "name": "Signal",
+      "category": "Redes Sociais & Comunicação",
+      "imageUrl": "/logos/signal.svg",
+      "simpleIconsSlug": "signal",
+      "difficulty": "médio",
+      "yearFounded": 2014,
+      "country": "EUA"
+    },
+    {
+      "id": "wechat-114",
+      "name": "WeChat",
+      "category": "Redes Sociais & Comunicação",
+      "imageUrl": "/logos/wechat.svg",
+      "simpleIconsSlug": "wechat",
+      "difficulty": "médio",
+      "yearFounded": 2011,
+      "country": "China"
+    },
+    {
+      "id": "line-115",
+      "name": "Line",
+      "category": "Redes Sociais & Comunicação",
+      "imageUrl": "/logos/line.svg",
+      "simpleIconsSlug": "line",
+      "difficulty": "médio",
+      "yearFounded": 2011,
+      "country": "Japão"
+    },
+    {
+      "id": "viber-116",
+      "name": "Viber",
+      "category": "Redes Sociais & Comunicação",
+      "imageUrl": "/logos/viber.svg",
+      "simpleIconsSlug": "viber",
+      "difficulty": "médio",
+      "yearFounded": 2010,
+      "country": "Israel"
+    },
+    {
+      "id": "kakao-117",
+      "name": "KakaoTalk",
+      "category": "Redes Sociais & Comunicação",
+      "imageUrl": "/logos/kakao.svg",
+      "simpleIconsSlug": "kakao",
+      "difficulty": "difícil",
+      "yearFounded": 2010,
+      "country": "Coreia do Sul"
+    },
+    {
+      "id": "googlechat-118",
+      "name": "Google Chat",
+      "category": "Redes Sociais & Comunicação",
+      "imageUrl": "/logos/googlechat.svg",
+      "simpleIconsSlug": "googlechat",
+      "difficulty": "médio",
+      "yearFounded": 2017,
+      "country": "EUA"
+    },
+    {
+      "id": "mattermost-119",
+      "name": "Mattermost",
+      "category": "Redes Sociais & Comunicação",
+      "imageUrl": "/logos/mattermost.svg",
+      "simpleIconsSlug": "mattermost",
+      "difficulty": "difícil",
+      "yearFounded": 2015,
+      "country": "EUA"
+    },
+    {
+      "id": "element-120",
+      "name": "Element",
+      "category": "Redes Sociais & Comunicação",
+      "imageUrl": "/logos/element.svg",
+      "simpleIconsSlug": "element",
+      "difficulty": "difícil",
+      "yearFounded": 2017,
+      "country": "Reino Unido"
+    },
+    {
+      "id": "mastodon-121",
+      "name": "Mastodon",
+      "category": "Redes Sociais & Comunicação",
+      "imageUrl": "/logos/mastodon.svg",
+      "simpleIconsSlug": "mastodon",
+      "difficulty": "médio",
+      "yearFounded": 2016,
+      "country": "Alemanha"
+    },
+    {
+      "id": "threads-122",
+      "name": "Threads",
+      "category": "Redes Sociais & Comunicação",
+      "imageUrl": "/logos/threads.svg",
+      "simpleIconsSlug": "threads",
+      "difficulty": "fácil",
+      "yearFounded": 2023,
+      "country": "EUA"
+    },
+    {
+      "id": "bluesky-123",
+      "name": "Bluesky",
+      "category": "Redes Sociais & Comunicação",
+      "imageUrl": "/logos/bluesky.svg",
+      "simpleIconsSlug": "bluesky",
+      "difficulty": "médio",
+      "yearFounded": 2023,
+      "country": "EUA"
+    },
+    {
+      "id": "vimeo-124",
+      "name": "Vimeo",
+      "category": "Redes Sociais & Comunicação",
+      "imageUrl": "/logos/vimeo.svg",
+      "simpleIconsSlug": "vimeo",
+      "difficulty": "médio",
+      "yearFounded": 2004,
+      "country": "EUA"
+    },
+    {
+      "id": "dailymotion-125",
+      "name": "Dailymotion",
+      "category": "Redes Sociais & Comunicação",
+      "imageUrl": "/logos/dailymotion.svg",
+      "simpleIconsSlug": "dailymotion",
+      "difficulty": "médio",
+      "yearFounded": 2005,
+      "country": "França"
+    },
+    {
+      "id": "medium-126",
+      "name": "Medium",
+      "category": "Redes Sociais & Comunicação",
+      "imageUrl": "/logos/medium.svg",
+      "simpleIconsSlug": "medium",
+      "difficulty": "médio",
+      "yearFounded": 2012,
+      "country": "EUA"
+    },
+    {
+      "id": "quora-127",
+      "name": "Quora",
+      "category": "Redes Sociais & Comunicação",
+      "imageUrl": "/logos/quora.svg",
+      "simpleIconsSlug": "quora",
+      "difficulty": "médio",
+      "yearFounded": 2009,
+      "country": "EUA"
+    },
+    {
+      "id": "stackoverflow-128",
+      "name": "Stack Overflow",
+      "category": "Redes Sociais & Comunicação",
+      "imageUrl": "/logos/stackoverflow.svg",
+      "simpleIconsSlug": "stackoverflow",
+      "difficulty": "médio",
+      "yearFounded": 2008,
+      "country": "EUA"
+    },
+    {
+      "id": "patreon-129",
+      "name": "Patreon",
+      "category": "Redes Sociais & Comunicação",
+      "imageUrl": "/logos/patreon.svg",
+      "simpleIconsSlug": "patreon",
+      "difficulty": "médio",
+      "yearFounded": 2013,
+      "country": "EUA"
+    },
+    {
+      "id": "buymeacoffee-130",
+      "name": "Buy Me A Coffee",
+      "category": "Redes Sociais & Comunicação",
+      "imageUrl": "/logos/buymeacoffee.svg",
+      "simpleIconsSlug": "buymeacoffee",
+      "difficulty": "difícil",
+      "yearFounded": 2017,
+      "country": "EUA"
+    },
+    {
+      "id": "kofi-131",
+      "name": "Ko-fi",
+      "category": "Redes Sociais & Comunicação",
+      "imageUrl": "/logos/kofi.svg",
+      "simpleIconsSlug": "kofi",
+      "difficulty": "difícil",
+      "yearFounded": 2012,
+      "country": "Reino Unido"
+    },
+    {
+      "id": "behance-132",
+      "name": "Behance",
+      "category": "Redes Sociais & Comunicação",
+      "imageUrl": "/logos/behance.svg",
+      "simpleIconsSlug": "behance",
+      "difficulty": "médio",
+      "yearFounded": 2006,
+      "country": "EUA"
+    },
+    {
+      "id": "500px-133",
+      "name": "500px",
+      "category": "Redes Sociais & Comunicação",
+      "imageUrl": "/logos/500px.svg",
+      "simpleIconsSlug": "500px",
+      "difficulty": "difícil",
+      "yearFounded": 2009,
+      "country": "Canadá"
+    },
+    {
+      "id": "flickr-134",
+      "name": "Flickr",
+      "category": "Redes Sociais & Comunicação",
+      "imageUrl": "/logos/flickr.svg",
+      "simpleIconsSlug": "flickr",
+      "difficulty": "médio",
+      "yearFounded": 2004,
+      "country": "Canadá"
+    },
+    {
+      "id": "dribbble-135",
+      "name": "Dribbble",
+      "category": "Redes Sociais & Comunicação",
+      "imageUrl": "/logos/dribbble.svg",
+      "simpleIconsSlug": "dribbble",
+      "difficulty": "médio",
+      "yearFounded": 2009,
+      "country": "EUA"
+    },
+    {
+      "id": "linktree-136",
+      "name": "Linktree",
+      "category": "Redes Sociais & Comunicação",
+      "imageUrl": "/logos/linktree.svg",
+      "simpleIconsSlug": "linktree",
+      "difficulty": "médio",
+      "yearFounded": 2016,
+      "country": "Austrália"
+    },
+    {
+      "id": "wordpress-137",
+      "name": "WordPress",
+      "category": "Redes Sociais & Comunicação",
+      "imageUrl": "/logos/wordpress.svg",
+      "simpleIconsSlug": "wordpress",
+      "difficulty": "fácil",
+      "yearFounded": 2003,
+      "country": "EUA"
+    },
+    {
+      "id": "blogger-138",
+      "name": "Blogger",
+      "category": "Redes Sociais & Comunicação",
+      "imageUrl": "/logos/blogger.svg",
+      "simpleIconsSlug": "blogger",
+      "difficulty": "médio",
+      "yearFounded": 1999,
+      "country": "EUA"
+    },
+    {
+      "id": "wix-139",
+      "name": "Wix",
+      "category": "Redes Sociais & Comunicação",
+      "imageUrl": "/logos/wix.svg",
+      "simpleIconsSlug": "wix",
+      "difficulty": "médio",
+      "yearFounded": 2006,
+      "country": "Israel"
+    },
+    {
+      "id": "squarespace-140",
+      "name": "Squarespace",
+      "category": "Redes Sociais & Comunicação",
+      "imageUrl": "/logos/squarespace.svg",
+      "simpleIconsSlug": "squarespace",
+      "difficulty": "médio",
+      "yearFounded": 2003,
+      "country": "EUA"
+    },
+    {
+      "id": "webflow-141",
+      "name": "Webflow",
+      "category": "Redes Sociais & Comunicação",
+      "imageUrl": "/logos/webflow.svg",
+      "simpleIconsSlug": "webflow",
+      "difficulty": "médio",
+      "yearFounded": 2012,
+      "country": "EUA"
+    },
+    {
+      "id": "ghost-142",
+      "name": "Ghost",
+      "category": "Redes Sociais & Comunicação",
+      "imageUrl": "/logos/ghost.svg",
+      "simpleIconsSlug": "ghost",
+      "difficulty": "difícil",
+      "yearFounded": 2013,
+      "country": "Reino Unido"
+    },
+    {
+      "id": "substack-143",
+      "name": "Substack",
+      "category": "Redes Sociais & Comunicação",
+      "imageUrl": "/logos/substack.svg",
+      "simpleIconsSlug": "substack",
+      "difficulty": "médio",
+      "yearFounded": 2017,
+      "country": "EUA"
+    },
+    {
+      "id": "producthunt-144",
+      "name": "Product Hunt",
+      "category": "Redes Sociais & Comunicação",
+      "imageUrl": "/logos/producthunt.svg",
+      "simpleIconsSlug": "producthunt",
+      "difficulty": "difícil",
+      "yearFounded": 2013,
+      "country": "EUA"
+    },
+    {
+      "id": "livejournal-145",
+      "name": "LiveJournal",
+      "category": "Redes Sociais & Comunicação",
+      "imageUrl": "/logos/livejournal.svg",
+      "simpleIconsSlug": "livejournal",
+      "difficulty": "difícil",
+      "yearFounded": 1999,
+      "country": "EUA"
+    },
+    {
+      "id": "matrix-146",
+      "name": "Matrix",
+      "category": "Redes Sociais & Comunicação",
+      "imageUrl": "/logos/matrix.svg",
+      "simpleIconsSlug": "matrix",
+      "difficulty": "difícil",
+      "yearFounded": 2014,
+      "country": "Reino Unido"
+    },
+    {
+      "id": "xing-147",
+      "name": "Xing",
+      "category": "Redes Sociais & Comunicação",
+      "imageUrl": "/logos/xing.svg",
+      "simpleIconsSlug": "xing",
+      "difficulty": "difícil",
+      "yearFounded": 2003,
+      "country": "Alemanha"
+    },
+    {
+      "id": "viadeo-148",
+      "name": "Viadeo",
+      "category": "Redes Sociais & Comunicação",
+      "imageUrl": "/logos/viadeo.svg",
+      "simpleIconsSlug": "viadeo",
+      "difficulty": "difícil",
+      "yearFounded": 2004,
+      "country": "França"
+    },
+    {
+      "id": "mewe-149",
+      "name": "MeWe",
+      "category": "Redes Sociais & Comunicação",
+      "imageUrl": "/logos/mewe.svg",
+      "simpleIconsSlug": "mewe",
+      "difficulty": "difícil",
+      "yearFounded": 2012,
+      "country": "EUA"
+    },
+    {
+      "id": "minds-150",
+      "name": "Minds",
+      "category": "Redes Sociais & Comunicação",
+      "imageUrl": "/logos/minds.svg",
+      "simpleIconsSlug": "minds",
+      "difficulty": "difícil",
+      "yearFounded": 2015,
+      "country": "EUA"
+    },
+    {
+      "id": "netflix-151",
+      "name": "Netflix",
+      "category": "Streaming & Entretenimento",
+      "imageUrl": "/logos/netflix.svg",
+      "simpleIconsSlug": "netflix",
+      "difficulty": "fácil",
+      "yearFounded": 1997,
+      "country": "EUA"
+    },
+    {
+      "id": "spotify-152",
+      "name": "Spotify",
+      "category": "Streaming & Entretenimento",
+      "imageUrl": "/logos/spotify.svg",
+      "simpleIconsSlug": "spotify",
+      "difficulty": "fácil",
+      "yearFounded": 2006,
+      "country": "Suécia"
+    },
+    {
+      "id": "twitch-153",
+      "name": "Twitch",
+      "category": "Streaming & Entretenimento",
+      "imageUrl": "/logos/twitch.svg",
+      "simpleIconsSlug": "twitch",
+      "difficulty": "fácil",
+      "yearFounded": 2011,
+      "country": "EUA"
+    },
+    {
+      "id": "hbo-154",
+      "name": "HBO",
+      "category": "Streaming & Entretenimento",
+      "imageUrl": "/logos/hbo.svg",
+      "simpleIconsSlug": "hbo",
+      "difficulty": "fácil",
+      "yearFounded": 1972,
+      "country": "EUA"
+    },
+    {
+      "id": "hbomax-155",
+      "name": "HBO Max",
+      "category": "Streaming & Entretenimento",
+      "imageUrl": "/logos/hbomax.svg",
+      "simpleIconsSlug": "hbomax",
+      "difficulty": "médio",
+      "yearFounded": 2020,
+      "country": "EUA"
+    },
+    {
+      "id": "appletv-156",
+      "name": "Apple TV+",
+      "category": "Streaming & Entretenimento",
+      "imageUrl": "/logos/appletv.svg",
+      "simpleIconsSlug": "appletv",
+      "difficulty": "médio",
+      "yearFounded": 2019,
+      "country": "EUA"
+    },
+    {
+      "id": "paramountplus-157",
+      "name": "Paramount+",
+      "category": "Streaming & Entretenimento",
+      "imageUrl": "/logos/paramountplus.svg",
+      "simpleIconsSlug": "paramountplus",
+      "difficulty": "médio",
+      "yearFounded": 2014,
+      "country": "EUA"
+    },
+    {
+      "id": "crunchyroll-158",
+      "name": "Crunchyroll",
+      "category": "Streaming & Entretenimento",
+      "imageUrl": "/logos/crunchyroll.svg",
+      "simpleIconsSlug": "crunchyroll",
+      "difficulty": "médio",
+      "yearFounded": 2006,
+      "country": "EUA"
+    },
+    {
+      "id": "plex-159",
+      "name": "Plex",
+      "category": "Streaming & Entretenimento",
+      "imageUrl": "/logos/plex.svg",
+      "simpleIconsSlug": "plex",
+      "difficulty": "médio",
+      "yearFounded": 2008,
+      "country": "EUA"
+    },
+    {
+      "id": "kodi-160",
+      "name": "Kodi",
+      "category": "Streaming & Entretenimento",
+      "imageUrl": "/logos/kodi.svg",
+      "simpleIconsSlug": "kodi",
+      "difficulty": "médio",
+      "yearFounded": 2002,
+      "country": "Internacional"
+    },
+    {
+      "id": "nbc-161",
+      "name": "NBC",
+      "category": "Streaming & Entretenimento",
+      "imageUrl": "/logos/nbc.svg",
+      "simpleIconsSlug": "nbc",
+      "difficulty": "médio",
+      "yearFounded": 1926,
+      "country": "EUA"
+    },
+    {
+      "id": "cbs-162",
+      "name": "CBS",
+      "category": "Streaming & Entretenimento",
+      "imageUrl": "/logos/cbs.svg",
+      "simpleIconsSlug": "cbs",
+      "difficulty": "médio",
+      "yearFounded": 1927,
+      "country": "EUA"
+    },
+    {
+      "id": "fox-163",
+      "name": "FOX",
+      "category": "Streaming & Entretenimento",
+      "imageUrl": "/logos/fox.svg",
+      "simpleIconsSlug": "fox",
+      "difficulty": "médio",
+      "yearFounded": 1986,
+      "country": "EUA"
+    },
+    {
+      "id": "cnn-164",
+      "name": "CNN",
+      "category": "Streaming & Entretenimento",
+      "imageUrl": "/logos/cnn.svg",
+      "simpleIconsSlug": "cnn",
+      "difficulty": "médio",
+      "yearFounded": 1980,
+      "country": "EUA"
+    },
+    {
+      "id": "theguardian-165",
+      "name": "The Guardian",
+      "category": "Streaming & Entretenimento",
+      "imageUrl": "/logos/theguardian.svg",
+      "simpleIconsSlug": "theguardian",
+      "difficulty": "médio",
+      "yearFounded": 1821,
+      "country": "Reino Unido"
+    },
+    {
+      "id": "rumble-166",
+      "name": "Rumble",
+      "category": "Streaming & Entretenimento",
+      "imageUrl": "/logos/rumble.svg",
+      "simpleIconsSlug": "rumble",
+      "difficulty": "difícil",
+      "yearFounded": 2013,
+      "country": "EUA"
+    },
+    {
+      "id": "odysee-167",
+      "name": "Odysee",
+      "category": "Streaming & Entretenimento",
+      "imageUrl": "/logos/odysee.svg",
+      "simpleIconsSlug": "odysee",
+      "difficulty": "difícil",
+      "yearFounded": 2020,
+      "country": "EUA"
+    },
+    {
+      "id": "peertube-168",
+      "name": "PeerTube",
+      "category": "Streaming & Entretenimento",
+      "imageUrl": "/logos/peertube.svg",
+      "simpleIconsSlug": "peertube",
+      "difficulty": "difícil",
+      "yearFounded": 2018,
+      "country": "França"
+    },
+    {
+      "id": "tubi-169",
+      "name": "Tubi",
+      "category": "Streaming & Entretenimento",
+      "imageUrl": "/logos/tubi.svg",
+      "simpleIconsSlug": "tubi",
+      "difficulty": "médio",
+      "yearFounded": 2014,
+      "country": "EUA"
+    },
+    {
+      "id": "fubo-170",
+      "name": "Fubo",
+      "category": "Streaming & Entretenimento",
+      "imageUrl": "/logos/fubo.svg",
+      "simpleIconsSlug": "fubo",
+      "difficulty": "difícil",
+      "yearFounded": 2015,
+      "country": "EUA"
+    },
+    {
+      "id": "soundcloud-171",
+      "name": "SoundCloud",
+      "category": "Streaming & Entretenimento",
+      "imageUrl": "/logos/soundcloud.svg",
+      "simpleIconsSlug": "soundcloud",
+      "difficulty": "fácil",
+      "yearFounded": 2007,
+      "country": "Alemanha"
+    },
+    {
+      "id": "tidal-172",
+      "name": "TIDAL",
+      "category": "Streaming & Entretenimento",
+      "imageUrl": "/logos/tidal.svg",
+      "simpleIconsSlug": "tidal",
+      "difficulty": "médio",
+      "yearFounded": 2014,
+      "country": "Noruega"
+    },
+    {
+      "id": "deezer-173",
+      "name": "Deezer",
+      "category": "Streaming & Entretenimento",
+      "imageUrl": "/logos/deezer.svg",
+      "simpleIconsSlug": "deezer",
+      "difficulty": "médio",
+      "yearFounded": 2007,
+      "country": "França"
+    },
+    {
+      "id": "pandora-174",
+      "name": "Pandora",
+      "category": "Streaming & Entretenimento",
+      "imageUrl": "/logos/pandora.svg",
+      "simpleIconsSlug": "pandora",
+      "difficulty": "médio",
+      "yearFounded": 2000,
+      "country": "EUA"
+    },
+    {
+      "id": "youtubemusic-175",
+      "name": "YouTube Music",
+      "category": "Streaming & Entretenimento",
+      "imageUrl": "/logos/youtubemusic.svg",
+      "simpleIconsSlug": "youtubemusic",
+      "difficulty": "médio",
+      "yearFounded": 2015,
+      "country": "EUA"
+    },
+    {
+      "id": "applemusic-176",
+      "name": "Apple Music",
+      "category": "Streaming & Entretenimento",
+      "imageUrl": "/logos/applemusic.svg",
+      "simpleIconsSlug": "applemusic",
+      "difficulty": "médio",
+      "yearFounded": 2015,
+      "country": "EUA"
+    },
+    {
+      "id": "bandcamp-177",
+      "name": "Bandcamp",
+      "category": "Streaming & Entretenimento",
+      "imageUrl": "/logos/bandcamp.svg",
+      "simpleIconsSlug": "bandcamp",
+      "difficulty": "médio",
+      "yearFounded": 2008,
+      "country": "EUA"
+    },
+    {
+      "id": "audible-178",
+      "name": "Audible",
+      "category": "Streaming & Entretenimento",
+      "imageUrl": "/logos/audible.svg",
+      "simpleIconsSlug": "audible",
+      "difficulty": "médio",
+      "yearFounded": 1995,
+      "country": "EUA"
+    },
+    {
+      "id": "mixcloud-179",
+      "name": "Mixcloud",
+      "category": "Streaming & Entretenimento",
+      "imageUrl": "/logos/mixcloud.svg",
+      "simpleIconsSlug": "mixcloud",
+      "difficulty": "difícil",
+      "yearFounded": 2008,
+      "country": "Reino Unido"
+    },
+    {
+      "id": "audiomack-180",
+      "name": "Audiomack",
+      "category": "Streaming & Entretenimento",
+      "imageUrl": "/logos/audiomack.svg",
+      "simpleIconsSlug": "audiomack",
+      "difficulty": "difícil",
+      "yearFounded": 2012,
+      "country": "EUA"
+    },
+    {
+      "id": "iheartradio-181",
+      "name": "iHeartRadio",
+      "category": "Streaming & Entretenimento",
+      "imageUrl": "/logos/iheartradio.svg",
+      "simpleIconsSlug": "iheartradio",
+      "difficulty": "médio",
+      "yearFounded": 2008,
+      "country": "EUA"
+    },
+    {
+      "id": "pocketcasts-182",
+      "name": "Pocket Casts",
+      "category": "Streaming & Entretenimento",
+      "imageUrl": "/logos/pocketcasts.svg",
+      "simpleIconsSlug": "pocketcasts",
+      "difficulty": "difícil",
+      "yearFounded": 2010,
+      "country": "Austrália"
+    },
+    {
+      "id": "castbox-183",
+      "name": "Castbox",
+      "category": "Streaming & Entretenimento",
+      "imageUrl": "/logos/castbox.svg",
+      "simpleIconsSlug": "castbox",
+      "difficulty": "difícil",
+      "yearFounded": 2016,
+      "country": "EUA"
+    },
+    {
+      "id": "overcast-184",
+      "name": "Overcast",
+      "category": "Streaming & Entretenimento",
+      "imageUrl": "/logos/overcast.svg",
+      "simpleIconsSlug": "overcast",
+      "difficulty": "difícil",
+      "yearFounded": 2013,
+      "country": "EUA"
+    },
+    {
+      "id": "podcastaddict-185",
+      "name": "Podcast Addict",
+      "category": "Streaming & Entretenimento",
+      "imageUrl": "/logos/podcastaddict.svg",
+      "simpleIconsSlug": "podcastaddict",
+      "difficulty": "difícil",
+      "yearFounded": 2011,
+      "country": "EUA"
+    },
+    {
+      "id": "spreaker-186",
+      "name": "Spreaker",
+      "category": "Streaming & Entretenimento",
+      "imageUrl": "/logos/spreaker.svg",
+      "simpleIconsSlug": "spreaker",
+      "difficulty": "difícil",
+      "yearFounded": 2010,
+      "country": "EUA"
+    },
+    {
+      "id": "imdb-187",
+      "name": "IMDb",
+      "category": "Streaming & Entretenimento",
+      "imageUrl": "/logos/imdb.svg",
+      "simpleIconsSlug": "imdb",
+      "difficulty": "médio",
+      "yearFounded": 1990,
+      "country": "EUA"
+    },
+    {
+      "id": "letterboxd-188",
+      "name": "Letterboxd",
+      "category": "Streaming & Entretenimento",
+      "imageUrl": "/logos/letterboxd.svg",
+      "simpleIconsSlug": "letterboxd",
+      "difficulty": "difícil",
+      "yearFounded": 2011,
+      "country": "Nova Zelândia"
+    },
+    {
+      "id": "shazam-189",
+      "name": "Shazam",
+      "category": "Streaming & Entretenimento",
+      "imageUrl": "/logos/shazam.svg",
+      "simpleIconsSlug": "shazam",
+      "difficulty": "fácil",
+      "yearFounded": 2002,
+      "country": "Reino Unido"
+    },
+    {
+      "id": "genius-190",
+      "name": "Genius",
+      "category": "Streaming & Entretenimento",
+      "imageUrl": "/logos/genius.svg",
+      "simpleIconsSlug": "genius",
+      "difficulty": "médio",
+      "yearFounded": 2009,
+      "country": "EUA"
+    },
+    {
+      "id": "reverbnation-191",
+      "name": "ReverbNation",
+      "category": "Streaming & Entretenimento",
+      "imageUrl": "/logos/reverbnation.svg",
+      "simpleIconsSlug": "reverbnation",
+      "difficulty": "difícil",
+      "yearFounded": 2006,
+      "country": "EUA"
+    },
+    {
+      "id": "discogs-192",
+      "name": "Discogs",
+      "category": "Streaming & Entretenimento",
+      "imageUrl": "/logos/discogs.svg",
+      "simpleIconsSlug": "discogs",
+      "difficulty": "difícil",
+      "yearFounded": 2000,
+      "country": "EUA"
+    },
+    {
+      "id": "rottentomatoes-193",
+      "name": "Rotten Tomatoes",
+      "category": "Streaming & Entretenimento",
+      "imageUrl": "/logos/rottentomatoes.svg",
+      "simpleIconsSlug": "rottentomatoes",
+      "difficulty": "médio",
+      "yearFounded": 1998,
+      "country": "EUA"
+    },
+    {
+      "id": "metacritic-194",
+      "name": "Metacritic",
+      "category": "Streaming & Entretenimento",
+      "imageUrl": "/logos/metacritic.svg",
+      "simpleIconsSlug": "metacritic",
+      "difficulty": "médio",
+      "yearFounded": 1999,
+      "country": "EUA"
+    },
+    {
+      "id": "fandango-195",
+      "name": "Fandango",
+      "category": "Streaming & Entretenimento",
+      "imageUrl": "/logos/fandango.svg",
+      "simpleIconsSlug": "fandango",
+      "difficulty": "médio",
+      "yearFounded": 2000,
+      "country": "EUA"
+    },
+    {
+      "id": "trakt-196",
+      "name": "Trakt",
+      "category": "Streaming & Entretenimento",
+      "imageUrl": "/logos/trakt.svg",
+      "simpleIconsSlug": "trakt",
+      "difficulty": "difícil",
+      "yearFounded": 2010,
+      "country": "EUA"
+    },
+    {
+      "id": "stremio-197",
+      "name": "Stremio",
+      "category": "Streaming & Entretenimento",
+      "imageUrl": "/logos/stremio.svg",
+      "simpleIconsSlug": "stremio",
+      "difficulty": "difícil",
+      "yearFounded": 2015,
+      "country": "Bulgária"
+    },
+    {
+      "id": "mubi-198",
+      "name": "MUBI",
+      "category": "Streaming & Entretenimento",
+      "imageUrl": "/logos/mubi.svg",
+      "simpleIconsSlug": "mubi",
+      "difficulty": "difícil",
+      "yearFounded": 2007,
+      "country": "EUA"
+    },
+    {
+      "id": "simkl-199",
+      "name": "Simkl",
+      "category": "Streaming & Entretenimento",
+      "imageUrl": "/logos/simkl.svg",
+      "simpleIconsSlug": "simkl",
+      "difficulty": "difícil",
+      "yearFounded": 2012,
+      "country": "Internacional"
+    },
+    {
+      "id": "humblebundle-200",
+      "name": "Humble Bundle",
+      "category": "Streaming & Entretenimento",
+      "imageUrl": "/logos/humblebundle.svg",
+      "simpleIconsSlug": "humblebundle",
+      "difficulty": "médio",
+      "yearFounded": 2010,
+      "country": "EUA"
+    },
+    {
+      "id": "steam-201",
+      "name": "Steam",
+      "category": "Games & Esportes Eletrônicos",
+      "imageUrl": "/logos/steam.svg",
+      "simpleIconsSlug": "steam",
+      "difficulty": "fácil",
+      "yearFounded": 2003,
+      "country": "EUA"
+    },
+    {
+      "id": "epicgames-202",
+      "name": "Epic Games",
+      "category": "Games & Esportes Eletrônicos",
+      "imageUrl": "/logos/epicgames.svg",
+      "simpleIconsSlug": "epicgames",
+      "difficulty": "fácil",
+      "yearFounded": 1991,
+      "country": "EUA"
+    },
+    {
+      "id": "playstation-203",
+      "name": "PlayStation",
+      "category": "Games & Esportes Eletrônicos",
+      "imageUrl": "/logos/playstation.svg",
+      "simpleIconsSlug": "playstation",
+      "difficulty": "fácil",
+      "yearFounded": 1994,
+      "country": "Japão"
+    },
+    {
+      "id": "ea-204",
+      "name": "EA",
+      "category": "Games & Esportes Eletrônicos",
+      "imageUrl": "/logos/ea.svg",
+      "simpleIconsSlug": "ea",
+      "difficulty": "fácil",
+      "yearFounded": 1982,
+      "country": "EUA"
+    },
+    {
+      "id": "ubisoft-205",
+      "name": "Ubisoft",
+      "category": "Games & Esportes Eletrônicos",
+      "imageUrl": "/logos/ubisoft.svg",
+      "simpleIconsSlug": "ubisoft",
+      "difficulty": "médio",
+      "yearFounded": 1986,
+      "country": "França"
+    },
+    {
+      "id": "activision-206",
+      "name": "Activision",
+      "category": "Games & Esportes Eletrônicos",
+      "imageUrl": "/logos/activision.svg",
+      "simpleIconsSlug": "activision",
+      "difficulty": "médio",
+      "yearFounded": 1979,
+      "country": "EUA"
+    },
+    {
+      "id": "riotgames-207",
+      "name": "Riot Games",
+      "category": "Games & Esportes Eletrônicos",
+      "imageUrl": "/logos/riotgames.svg",
+      "simpleIconsSlug": "riotgames",
+      "difficulty": "médio",
+      "yearFounded": 2006,
+      "country": "EUA"
+    },
+    {
+      "id": "sega-208",
+      "name": "Sega",
+      "category": "Games & Esportes Eletrônicos",
+      "imageUrl": "/logos/sega.svg",
+      "simpleIconsSlug": "sega",
+      "difficulty": "fácil",
+      "yearFounded": 1945,
+      "country": "Japão"
+    },
+    {
+      "id": "squareenix-209",
+      "name": "Square Enix",
+      "category": "Games & Esportes Eletrônicos",
+      "imageUrl": "/logos/squareenix.svg",
+      "simpleIconsSlug": "squareenix",
+      "difficulty": "médio",
+      "yearFounded": 1975,
+      "country": "Japão"
+    },
+    {
+      "id": "rockstargames-210",
+      "name": "Rockstar Games",
+      "category": "Games & Esportes Eletrônicos",
+      "imageUrl": "/logos/rockstargames.svg",
+      "simpleIconsSlug": "rockstargames",
+      "difficulty": "médio",
+      "yearFounded": 1998,
+      "country": "EUA"
+    },
+    {
+      "id": "konami-211",
+      "name": "Konami",
+      "category": "Games & Esportes Eletrônicos",
+      "imageUrl": "/logos/konami.svg",
+      "simpleIconsSlug": "konami",
+      "difficulty": "médio",
+      "yearFounded": 1969,
+      "country": "Japão"
+    },
+    {
+      "id": "atari-212",
+      "name": "Atari",
+      "category": "Games & Esportes Eletrônicos",
+      "imageUrl": "/logos/atari.svg",
+      "simpleIconsSlug": "atari",
+      "difficulty": "médio",
+      "yearFounded": 1972,
+      "country": "EUA"
+    },
+    {
+      "id": "leagueoflegends-213",
+      "name": "League of Legends",
+      "category": "Games & Esportes Eletrônicos",
+      "imageUrl": "/logos/leagueoflegends.svg",
+      "simpleIconsSlug": "leagueoflegends",
+      "difficulty": "fácil",
+      "yearFounded": 2009,
+      "country": "EUA"
+    },
+    {
+      "id": "valorant-214",
+      "name": "Valorant",
+      "category": "Games & Esportes Eletrônicos",
+      "imageUrl": "/logos/valorant.svg",
+      "simpleIconsSlug": "valorant",
+      "difficulty": "fácil",
+      "yearFounded": 2020,
+      "country": "EUA"
+    },
+    {
+      "id": "dota2-215",
+      "name": "Dota 2",
+      "category": "Games & Esportes Eletrônicos",
+      "imageUrl": "/logos/dota2.svg",
+      "simpleIconsSlug": "dota2",
+      "difficulty": "fácil",
+      "yearFounded": 2013,
+      "country": "EUA"
+    },
+    {
+      "id": "fortnite-216",
+      "name": "Fortnite",
+      "category": "Games & Esportes Eletrônicos",
+      "imageUrl": "/logos/fortnite.svg",
+      "simpleIconsSlug": "fortnite",
+      "difficulty": "fácil",
+      "yearFounded": 2017,
+      "country": "EUA"
+    },
+    {
+      "id": "pubg-217",
+      "name": "PUBG",
+      "category": "Games & Esportes Eletrônicos",
+      "imageUrl": "/logos/pubg.svg",
+      "simpleIconsSlug": "pubg",
+      "difficulty": "fácil",
+      "yearFounded": 2017,
+      "country": "Coreia do Sul"
+    },
+    {
+      "id": "roblox-218",
+      "name": "Roblox",
+      "category": "Games & Esportes Eletrônicos",
+      "imageUrl": "/logos/roblox.svg",
+      "simpleIconsSlug": "roblox",
+      "difficulty": "fácil",
+      "yearFounded": 2006,
+      "country": "EUA"
+    },
+    {
+      "id": "counterstrike-219",
+      "name": "Counter-Strike",
+      "category": "Games & Esportes Eletrônicos",
+      "imageUrl": "/logos/counterstrike.svg",
+      "simpleIconsSlug": "counterstrike",
+      "difficulty": "médio",
+      "yearFounded": 2000,
+      "country": "EUA"
+    },
+    {
+      "id": "supercell-220",
+      "name": "Supercell",
+      "category": "Games & Esportes Eletrônicos",
+      "imageUrl": "/logos/supercell.svg",
+      "simpleIconsSlug": "supercell",
+      "difficulty": "médio",
+      "yearFounded": 2010,
+      "country": "Finlândia"
+    },
+    {
+      "id": "gameloft-221",
+      "name": "Gameloft",
+      "category": "Games & Esportes Eletrônicos",
+      "imageUrl": "/logos/gameloft.svg",
+      "simpleIconsSlug": "gameloft",
+      "difficulty": "médio",
+      "yearFounded": 1999,
+      "country": "França"
+    },
+    {
+      "id": "nexon-222",
+      "name": "NEXON",
+      "category": "Games & Esportes Eletrônicos",
+      "imageUrl": "/logos/nexon.svg",
+      "simpleIconsSlug": "nexon",
+      "difficulty": "difícil",
+      "yearFounded": 1994,
+      "country": "Coreia do Sul"
+    },
+    {
+      "id": "gamejolt-223",
+      "name": "Game Jolt",
+      "category": "Games & Esportes Eletrônicos",
+      "imageUrl": "/logos/gamejolt.svg",
+      "simpleIconsSlug": "gamejolt",
+      "difficulty": "difícil",
+      "yearFounded": 2011,
+      "country": "EUA"
+    },
+    {
+      "id": "chessdotcom-224",
+      "name": "Chess.com",
+      "category": "Games & Esportes Eletrônicos",
+      "imageUrl": "/logos/chessdotcom.svg",
+      "simpleIconsSlug": "chessdotcom",
+      "difficulty": "médio",
+      "yearFounded": 2007,
+      "country": "EUA"
+    },
+    {
+      "id": "lichess-225",
+      "name": "Lichess",
+      "category": "Games & Esportes Eletrônicos",
+      "imageUrl": "/logos/lichess.svg",
+      "simpleIconsSlug": "lichess",
+      "difficulty": "difícil",
+      "yearFounded": 2010,
+      "country": "Internacional"
+    },
+    {
+      "id": "faceit-226",
+      "name": "FACEIT",
+      "category": "Games & Esportes Eletrônicos",
+      "imageUrl": "/logos/faceit.svg",
+      "simpleIconsSlug": "faceit",
+      "difficulty": "difícil",
+      "yearFounded": 2012,
+      "country": "Reino Unido"
+    },
+    {
+      "id": "curseforge-227",
+      "name": "CurseForge",
+      "category": "Games & Esportes Eletrônicos",
+      "imageUrl": "/logos/curseforge.svg",
+      "simpleIconsSlug": "curseforge",
+      "difficulty": "difícil",
+      "yearFounded": 2013,
+      "country": "EUA"
+    },
+    {
+      "id": "modrinth-228",
+      "name": "Modrinth",
+      "category": "Games & Esportes Eletrônicos",
+      "imageUrl": "/logos/modrinth.svg",
+      "simpleIconsSlug": "modrinth",
+      "difficulty": "difícil",
+      "yearFounded": 2020,
+      "country": "EUA"
+    },
+    {
+      "id": "igdb-229",
+      "name": "IGDB",
+      "category": "Games & Esportes Eletrônicos",
+      "imageUrl": "/logos/igdb.svg",
+      "simpleIconsSlug": "igdb",
+      "difficulty": "difícil",
+      "yearFounded": 2015,
+      "country": "EUA"
+    },
+    {
+      "id": "replit-230",
+      "name": "Replit",
+      "category": "Games & Esportes Eletrônicos",
+      "imageUrl": "/logos/replit.svg",
+      "simpleIconsSlug": "replit",
+      "difficulty": "médio",
+      "yearFounded": 2016,
+      "country": "EUA"
+    },
+    {
+      "id": "valve-231",
+      "name": "Valve",
+      "category": "Games & Esportes Eletrônicos",
+      "imageUrl": "/logos/valve.svg",
+      "simpleIconsSlug": "valve",
+      "difficulty": "médio",
+      "yearFounded": 1996,
+      "country": "EUA"
+    },
+    {
+      "id": "elgato-232",
+      "name": "Elgato",
+      "category": "Games & Esportes Eletrônicos",
+      "imageUrl": "/logos/elgato.svg",
+      "simpleIconsSlug": "elgato",
+      "difficulty": "médio",
+      "yearFounded": 1992,
+      "country": "Alemanha"
+    },
+    {
+      "id": "streamlabs-233",
+      "name": "Streamlabs",
+      "category": "Games & Esportes Eletrônicos",
+      "imageUrl": "/logos/streamlabs.svg",
+      "simpleIconsSlug": "streamlabs",
+      "difficulty": "médio",
+      "yearFounded": 2014,
+      "country": "EUA"
+    },
+    {
+      "id": "teamspeak-234",
+      "name": "TeamSpeak",
+      "category": "Games & Esportes Eletrônicos",
+      "imageUrl": "/logos/teamspeak.svg",
+      "simpleIconsSlug": "teamspeak",
+      "difficulty": "difícil",
+      "yearFounded": 2001,
+      "country": "Alemanha"
+    },
+    {
+      "id": "mumble-235",
+      "name": "Mumble",
+      "category": "Games & Esportes Eletrônicos",
+      "imageUrl": "/logos/mumble.svg",
+      "simpleIconsSlug": "mumble",
+      "difficulty": "difícil",
+      "yearFounded": 2005,
+      "country": "Internacional"
+    },
+    {
+      "id": "esea-236",
+      "name": "ESEA",
+      "category": "Games & Esportes Eletrônicos",
+      "imageUrl": "/logos/esea.svg",
+      "simpleIconsSlug": "esea",
+      "difficulty": "difícil",
+      "yearFounded": 2003,
+      "country": "EUA"
+    },
+    {
+      "id": "xsplit-237",
+      "name": "XSplit",
+      "category": "Games & Esportes Eletrônicos",
+      "imageUrl": "/logos/xsplit.svg",
+      "simpleIconsSlug": "xsplit",
+      "difficulty": "difícil",
+      "yearFounded": 2011,
+      "country": "Filipinas"
+    },
+    {
+      "id": "wondershare-238",
+      "name": "Wondershare",
+      "category": "Games & Esportes Eletrônicos",
+      "imageUrl": "/logos/wondershare.svg",
+      "simpleIconsSlug": "wondershare",
+      "difficulty": "difícil",
+      "yearFounded": 2003,
+      "country": "China"
+    },
+    {
+      "id": "nba-239",
+      "name": "NBA",
+      "category": "Games & Esportes Eletrônicos",
+      "imageUrl": "/logos/nba.svg",
+      "simpleIconsSlug": "nba",
+      "difficulty": "fácil",
+      "yearFounded": 1946,
+      "country": "EUA"
+    },
+    {
+      "id": "nhl-240",
+      "name": "NHL",
+      "category": "Games & Esportes Eletrônicos",
+      "imageUrl": "/logos/nhl.svg",
+      "simpleIconsSlug": "nhl",
+      "difficulty": "médio",
+      "yearFounded": 1917,
+      "country": "Canadá"
+    },
+    {
+      "id": "mlb-241",
+      "name": "MLB",
+      "category": "Games & Esportes Eletrônicos",
+      "imageUrl": "/logos/mlb.svg",
+      "simpleIconsSlug": "mlb",
+      "difficulty": "médio",
+      "yearFounded": 1903,
+      "country": "EUA"
+    },
+    {
+      "id": "ufc-242",
+      "name": "UFC",
+      "category": "Games & Esportes Eletrônicos",
+      "imageUrl": "/logos/ufc.svg",
+      "simpleIconsSlug": "ufc",
+      "difficulty": "médio",
+      "yearFounded": 1993,
+      "country": "EUA"
+    },
+    {
+      "id": "wwe-243",
+      "name": "WWE",
+      "category": "Games & Esportes Eletrônicos",
+      "imageUrl": "/logos/wwe.svg",
+      "simpleIconsSlug": "wwe",
+      "difficulty": "médio",
+      "yearFounded": 1952,
+      "country": "EUA"
+    },
+    {
+      "id": "fifa-244",
+      "name": "FIFA",
+      "category": "Games & Esportes Eletrônicos",
+      "imageUrl": "/logos/fifa.svg",
+      "simpleIconsSlug": "fifa",
+      "difficulty": "fácil",
+      "yearFounded": 1904,
+      "country": "Suíça"
+    },
+    {
+      "id": "strava-245",
+      "name": "Strava",
+      "category": "Games & Esportes Eletrônicos",
+      "imageUrl": "/logos/strava.svg",
+      "simpleIconsSlug": "strava",
+      "difficulty": "médio",
+      "yearFounded": 2009,
+      "country": "EUA"
+    },
+    {
+      "id": "peloton-246",
+      "name": "Peloton",
+      "category": "Games & Esportes Eletrônicos",
+      "imageUrl": "/logos/peloton.svg",
+      "simpleIconsSlug": "peloton",
+      "difficulty": "médio",
+      "yearFounded": 2012,
+      "country": "EUA"
+    },
+    {
+      "id": "runkeeper-247",
+      "name": "Runkeeper",
+      "category": "Games & Esportes Eletrônicos",
+      "imageUrl": "/logos/runkeeper.svg",
+      "simpleIconsSlug": "runkeeper",
+      "difficulty": "difícil",
+      "yearFounded": 2008,
+      "country": "EUA"
+    },
+    {
+      "id": "koenigsegg-248",
+      "name": "Koenigsegg",
+      "category": "Games & Esportes Eletrônicos",
+      "imageUrl": "/logos/koenigsegg.svg",
+      "simpleIconsSlug": "koenigsegg",
+      "difficulty": "difícil",
+      "yearFounded": 1994,
+      "country": "Suécia"
+    },
+    {
+      "id": "mclaren-249",
+      "name": "McLaren",
+      "category": "Games & Esportes Eletrônicos",
+      "imageUrl": "/logos/mclaren.svg",
+      "simpleIconsSlug": "mclaren",
+      "difficulty": "difícil",
+      "yearFounded": 1963,
+      "country": "Reino Unido"
+    },
+    {
+      "id": "astonmartin-250",
+      "name": "Aston Martin",
+      "category": "Games & Esportes Eletrônicos",
+      "imageUrl": "/logos/astonmartin.svg",
+      "simpleIconsSlug": "astonmartin",
+      "difficulty": "médio",
+      "yearFounded": 1913,
+      "country": "Reino Unido"
+    },
+    {
+      "id": "paypal-251",
+      "name": "PayPal",
+      "category": "Finanças & Cripto",
+      "imageUrl": "/logos/paypal.svg",
+      "simpleIconsSlug": "paypal",
+      "difficulty": "fácil",
+      "yearFounded": 1998,
+      "country": "EUA"
+    },
+    {
+      "id": "stripe-252",
+      "name": "Stripe",
+      "category": "Finanças & Cripto",
+      "imageUrl": "/logos/stripe.svg",
+      "simpleIconsSlug": "stripe",
+      "difficulty": "médio",
+      "yearFounded": 2010,
+      "country": "EUA"
+    },
+    {
+      "id": "visa-253",
+      "name": "Visa",
+      "category": "Finanças & Cripto",
+      "imageUrl": "/logos/visa.svg",
+      "simpleIconsSlug": "visa",
+      "difficulty": "fácil",
+      "yearFounded": 1958,
+      "country": "EUA"
+    },
+    {
+      "id": "mastercard-254",
+      "name": "Mastercard",
+      "category": "Finanças & Cripto",
+      "imageUrl": "/logos/mastercard.svg",
+      "simpleIconsSlug": "mastercard",
+      "difficulty": "fácil",
+      "yearFounded": 1966,
+      "country": "EUA"
+    },
+    {
+      "id": "cashapp-255",
+      "name": "Cash App",
+      "category": "Finanças & Cripto",
+      "imageUrl": "/logos/cashapp.svg",
+      "simpleIconsSlug": "cashapp",
+      "difficulty": "médio",
+      "yearFounded": 2013,
+      "country": "EUA"
+    },
+    {
+      "id": "venmo-256",
+      "name": "Venmo",
+      "category": "Finanças & Cripto",
+      "imageUrl": "/logos/venmo.svg",
+      "simpleIconsSlug": "venmo",
+      "difficulty": "médio",
+      "yearFounded": 2009,
+      "country": "EUA"
+    },
+    {
+      "id": "revolut-257",
+      "name": "Revolut",
+      "category": "Finanças & Cripto",
+      "imageUrl": "/logos/revolut.svg",
+      "simpleIconsSlug": "revolut",
+      "difficulty": "médio",
+      "yearFounded": 2015,
+      "country": "Reino Unido"
+    },
+    {
+      "id": "nubank-258",
+      "name": "Nubank",
+      "category": "Finanças & Cripto",
+      "imageUrl": "/logos/nubank.svg",
+      "simpleIconsSlug": "nubank",
+      "difficulty": "médio",
+      "yearFounded": 2013,
+      "country": "Brasil"
+    },
+    {
+      "id": "klarna-259",
+      "name": "Klarna",
+      "category": "Finanças & Cripto",
+      "imageUrl": "/logos/klarna.svg",
+      "simpleIconsSlug": "klarna",
+      "difficulty": "médio",
+      "yearFounded": 2005,
+      "country": "Suécia"
+    },
+    {
+      "id": "afterpay-260",
+      "name": "Afterpay",
+      "category": "Finanças & Cripto",
+      "imageUrl": "/logos/afterpay.svg",
+      "simpleIconsSlug": "afterpay",
+      "difficulty": "médio",
+      "yearFounded": 2014,
+      "country": "Austrália"
+    },
+    {
+      "id": "coinbase-261",
+      "name": "Coinbase",
+      "category": "Finanças & Cripto",
+      "imageUrl": "/logos/coinbase.svg",
+      "simpleIconsSlug": "coinbase",
+      "difficulty": "médio",
+      "yearFounded": 2012,
+      "country": "EUA"
+    },
+    {
+      "id": "binance-262",
+      "name": "Binance",
+      "category": "Finanças & Cripto",
+      "imageUrl": "/logos/binance.svg",
+      "simpleIconsSlug": "binance",
+      "difficulty": "médio",
+      "yearFounded": 2017,
+      "country": "Ilhas Cayman"
+    },
+    {
+      "id": "kucoin-263",
+      "name": "KuCoin",
+      "category": "Finanças & Cripto",
+      "imageUrl": "/logos/kucoin.svg",
+      "simpleIconsSlug": "kucoin",
+      "difficulty": "difícil",
+      "yearFounded": 2017,
+      "country": "Seychelles"
+    },
+    {
+      "id": "bitcoin-264",
+      "name": "Bitcoin",
+      "category": "Finanças & Cripto",
+      "imageUrl": "/logos/bitcoin.svg",
+      "simpleIconsSlug": "bitcoin",
+      "difficulty": "fácil",
+      "yearFounded": 2009,
+      "country": "Internacional"
+    },
+    {
+      "id": "ethereum-265",
+      "name": "Ethereum",
+      "category": "Finanças & Cripto",
+      "imageUrl": "/logos/ethereum.svg",
+      "simpleIconsSlug": "ethereum",
+      "difficulty": "fácil",
+      "yearFounded": 2015,
+      "country": "Internacional"
+    },
+    {
+      "id": "solana-266",
+      "name": "Solana",
+      "category": "Finanças & Cripto",
+      "imageUrl": "/logos/solana.svg",
+      "simpleIconsSlug": "solana",
+      "difficulty": "médio",
+      "yearFounded": 2020,
+      "country": "Internacional"
+    },
+    {
+      "id": "cardano-267",
+      "name": "Cardano",
+      "category": "Finanças & Cripto",
+      "imageUrl": "/logos/cardano.svg",
+      "simpleIconsSlug": "cardano",
+      "difficulty": "médio",
+      "yearFounded": 2017,
+      "country": "Internacional"
+    },
+    {
+      "id": "dogecoin-268",
+      "name": "Dogecoin",
+      "category": "Finanças & Cripto",
+      "imageUrl": "/logos/dogecoin.svg",
+      "simpleIconsSlug": "dogecoin",
+      "difficulty": "médio",
+      "yearFounded": 2013,
+      "country": "Internacional"
+    },
+    {
+      "id": "xrp-269",
+      "name": "XRP",
+      "category": "Finanças & Cripto",
+      "imageUrl": "/logos/xrp.svg",
+      "simpleIconsSlug": "xrp",
+      "difficulty": "médio",
+      "yearFounded": 2012,
+      "country": "Internacional"
+    },
+    {
+      "id": "litecoin-270",
+      "name": "Litecoin",
+      "category": "Finanças & Cripto",
+      "imageUrl": "/logos/litecoin.svg",
+      "simpleIconsSlug": "litecoin",
+      "difficulty": "médio",
+      "yearFounded": 2011,
+      "country": "Internacional"
+    },
+    {
+      "id": "polygon-271",
+      "name": "Polygon",
+      "category": "Finanças & Cripto",
+      "imageUrl": "/logos/polygon.svg",
+      "simpleIconsSlug": "polygon",
+      "difficulty": "difícil",
+      "yearFounded": 2017,
+      "country": "Internacional"
+    },
+    {
+      "id": "chainlink-272",
+      "name": "Chainlink",
+      "category": "Finanças & Cripto",
+      "imageUrl": "/logos/chainlink.svg",
+      "simpleIconsSlug": "chainlink",
+      "difficulty": "difícil",
+      "yearFounded": 2017,
+      "country": "Internacional"
+    },
+    {
+      "id": "monero-273",
+      "name": "Monero",
+      "category": "Finanças & Cripto",
+      "imageUrl": "/logos/monero.svg",
+      "simpleIconsSlug": "monero",
+      "difficulty": "difícil",
+      "yearFounded": 2014,
+      "country": "Internacional"
+    },
+    {
+      "id": "stellar-274",
+      "name": "Stellar",
+      "category": "Finanças & Cripto",
+      "imageUrl": "/logos/stellar.svg",
+      "simpleIconsSlug": "stellar",
+      "difficulty": "difícil",
+      "yearFounded": 2014,
+      "country": "Internacional"
+    },
+    {
+      "id": "iota-275",
+      "name": "IOTA",
+      "category": "Finanças & Cripto",
+      "imageUrl": "/logos/iota.svg",
+      "simpleIconsSlug": "iota",
+      "difficulty": "difícil",
+      "yearFounded": 2016,
+      "country": "Alemanha"
+    },
+    {
+      "id": "wise-276",
+      "name": "Wise",
+      "category": "Finanças & Cripto",
+      "imageUrl": "/logos/wise.svg",
+      "simpleIconsSlug": "wise",
+      "difficulty": "médio",
+      "yearFounded": 2011,
+      "country": "Reino Unido"
+    },
+    {
+      "id": "robinhood-277",
+      "name": "Robinhood",
+      "category": "Finanças & Cripto",
+      "imageUrl": "/logos/robinhood.svg",
+      "simpleIconsSlug": "robinhood",
+      "difficulty": "médio",
+      "yearFounded": 2013,
+      "country": "EUA"
+    },
+    {
+      "id": "n26-278",
+      "name": "N26",
+      "category": "Finanças & Cripto",
+      "imageUrl": "/logos/n26.svg",
+      "simpleIconsSlug": "n26",
+      "difficulty": "difícil",
+      "yearFounded": 2013,
+      "country": "Alemanha"
+    },
+    {
+      "id": "monzo-279",
+      "name": "Monzo",
+      "category": "Finanças & Cripto",
+      "imageUrl": "/logos/monzo.svg",
+      "simpleIconsSlug": "monzo",
+      "difficulty": "difícil",
+      "yearFounded": 2015,
+      "country": "Reino Unido"
+    },
+    {
+      "id": "googlepay-280",
+      "name": "Google Pay",
+      "category": "Finanças & Cripto",
+      "imageUrl": "/logos/googlepay.svg",
+      "simpleIconsSlug": "googlepay",
+      "difficulty": "médio",
+      "yearFounded": 2015,
+      "country": "EUA"
+    },
+    {
+      "id": "applepay-281",
+      "name": "Apple Pay",
+      "category": "Finanças & Cripto",
+      "imageUrl": "/logos/applepay.svg",
+      "simpleIconsSlug": "applepay",
+      "difficulty": "médio",
+      "yearFounded": 2014,
+      "country": "EUA"
+    },
+    {
+      "id": "samsungpay-282",
+      "name": "Samsung Pay",
+      "category": "Finanças & Cripto",
+      "imageUrl": "/logos/samsungpay.svg",
+      "simpleIconsSlug": "samsungpay",
+      "difficulty": "médio",
+      "yearFounded": 2015,
+      "country": "Coreia do Sul"
+    },
+    {
+      "id": "payoneer-283",
+      "name": "Payoneer",
+      "category": "Finanças & Cripto",
+      "imageUrl": "/logos/payoneer.svg",
+      "simpleIconsSlug": "payoneer",
+      "difficulty": "médio",
+      "yearFounded": 2005,
+      "country": "EUA"
+    },
+    {
+      "id": "moneygram-284",
+      "name": "MoneyGram",
+      "category": "Finanças & Cripto",
+      "imageUrl": "/logos/moneygram.svg",
+      "simpleIconsSlug": "moneygram",
+      "difficulty": "médio",
+      "yearFounded": 1940,
+      "country": "EUA"
+    },
+    {
+      "id": "square-285",
+      "name": "Square",
+      "category": "Finanças & Cripto",
+      "imageUrl": "/logos/square.svg",
+      "simpleIconsSlug": "square",
+      "difficulty": "médio",
+      "yearFounded": 2009,
+      "country": "EUA"
+    },
+    {
+      "id": "alipay-286",
+      "name": "Alipay",
+      "category": "Finanças & Cripto",
+      "imageUrl": "/logos/alipay.svg",
+      "simpleIconsSlug": "alipay",
+      "difficulty": "médio",
+      "yearFounded": 2004,
+      "country": "China"
+    },
+    {
+      "id": "adyen-287",
+      "name": "Adyen",
+      "category": "Finanças & Cripto",
+      "imageUrl": "/logos/adyen.svg",
+      "simpleIconsSlug": "adyen",
+      "difficulty": "difícil",
+      "yearFounded": 2006,
+      "country": "Holanda"
+    },
+    {
+      "id": "braintree-288",
+      "name": "Braintree",
+      "category": "Finanças & Cripto",
+      "imageUrl": "/logos/braintree.svg",
+      "simpleIconsSlug": "braintree",
+      "difficulty": "difícil",
+      "yearFounded": 2007,
+      "country": "EUA"
+    },
+    {
+      "id": "razorpay-289",
+      "name": "Razorpay",
+      "category": "Finanças & Cripto",
+      "imageUrl": "/logos/razorpay.svg",
+      "simpleIconsSlug": "razorpay",
+      "difficulty": "difícil",
+      "yearFounded": 2014,
+      "country": "Índia"
+    },
+    {
+      "id": "paytm-290",
+      "name": "Paytm",
+      "category": "Finanças & Cripto",
+      "imageUrl": "/logos/paytm.svg",
+      "simpleIconsSlug": "paytm",
+      "difficulty": "difícil",
+      "yearFounded": 2010,
+      "country": "Índia"
+    },
+    {
+      "id": "phonepe-291",
+      "name": "PhonePe",
+      "category": "Finanças & Cripto",
+      "imageUrl": "/logos/phonepe.svg",
+      "simpleIconsSlug": "phonepe",
+      "difficulty": "difícil",
+      "yearFounded": 2015,
+      "country": "Índia"
+    },
+    {
+      "id": "pix-292",
+      "name": "PIX",
+      "category": "Finanças & Cripto",
+      "imageUrl": "/logos/pix.svg",
+      "simpleIconsSlug": "pix",
+      "difficulty": "médio",
+      "yearFounded": 2020,
+      "country": "Brasil"
+    },
+    {
+      "id": "skrill-293",
+      "name": "Bank of America",
+      "category": "Finanças & Cripto",
+      "imageUrl": "/logos/bankofamerica.svg",
+      "simpleIconsSlug": "bankofamerica",
+      "difficulty": "difícil",
+      "yearFounded": 2001,
+      "country": "Reino Unido"
+    },
+    {
+      "id": "neteller-294",
+      "name": "Deutsche Bank",
+      "category": "Finanças & Cripto",
+      "imageUrl": "/logos/deutschebank.svg",
+      "simpleIconsSlug": "deutschebank",
+      "difficulty": "difícil",
+      "yearFounded": 1999,
+      "country": "Canadá"
+    },
+    {
+      "id": "paysafecard-295",
+      "name": "Commerzbank",
+      "category": "Finanças & Cripto",
+      "imageUrl": "/logos/commerzbank.svg",
+      "simpleIconsSlug": "commerzbank",
+      "difficulty": "difícil",
+      "yearFounded": 1999,
+      "country": "Áustria"
+    },
+    {
+      "id": "intercom-297",
+      "name": "Intercom",
+      "category": "Finanças & Cripto",
+      "imageUrl": "/logos/intercom.svg",
+      "simpleIconsSlug": "intercom",
+      "difficulty": "difícil",
+      "yearFounded": 2011,
+      "country": "EUA"
+    },
+    {
+      "id": "hubspot-298",
+      "name": "HubSpot",
+      "category": "Finanças & Cripto",
+      "imageUrl": "/logos/hubspot.svg",
+      "simpleIconsSlug": "hubspot",
+      "difficulty": "médio",
+      "yearFounded": 2006,
+      "country": "EUA"
+    },
+    {
+      "id": "salesforce-299",
+      "name": "Axis Bank",
+      "category": "Finanças & Cripto",
+      "imageUrl": "/logos/axisbank.svg",
+      "simpleIconsSlug": "axisbank",
+      "difficulty": "médio",
+      "yearFounded": 1999,
+      "country": "EUA"
+    },
+    {
+      "id": "freshdesk-300",
+      "name": "CoinMarketCap",
+      "category": "Finanças & Cripto",
+      "imageUrl": "/logos/coinmarketcap.svg",
+      "simpleIconsSlug": "coinmarketcap",
+      "difficulty": "difícil",
+      "yearFounded": 2010,
+      "country": "Índia"
+    },
+    {
+      "id": "shopify-301",
+      "name": "Shopify",
+      "category": "E-commerce & Varejo",
+      "imageUrl": "/logos/shopify.svg",
+      "simpleIconsSlug": "shopify",
+      "difficulty": "médio",
+      "yearFounded": 2006,
+      "country": "Canadá"
+    },
+    {
+      "id": "ebay-302",
+      "name": "eBay",
+      "category": "E-commerce & Varejo",
+      "imageUrl": "/logos/ebay.svg",
+      "simpleIconsSlug": "ebay",
+      "difficulty": "fácil",
+      "yearFounded": 1995,
+      "country": "EUA"
+    },
+    {
+      "id": "etsy-303",
+      "name": "Etsy",
+      "category": "E-commerce & Varejo",
+      "imageUrl": "/logos/etsy.svg",
+      "simpleIconsSlug": "etsy",
+      "difficulty": "médio",
+      "yearFounded": 2005,
+      "country": "EUA"
+    },
+    {
+      "id": "aliexpress-304",
+      "name": "AliExpress",
+      "category": "E-commerce & Varejo",
+      "imageUrl": "/logos/aliexpress.svg",
+      "simpleIconsSlug": "aliexpress",
+      "difficulty": "médio",
+      "yearFounded": 2010,
+      "country": "China"
+    },
+    {
+      "id": "shopee-305",
+      "name": "Shopee",
+      "category": "E-commerce & Varejo",
+      "imageUrl": "/logos/shopee.svg",
+      "simpleIconsSlug": "shopee",
+      "difficulty": "médio",
+      "yearFounded": 2015,
+      "country": "Singapura"
+    },
+    {
+      "id": "zalando-306",
+      "name": "Zalando",
+      "category": "E-commerce & Varejo",
+      "imageUrl": "/logos/zalando.svg",
+      "simpleIconsSlug": "zalando",
+      "difficulty": "médio",
+      "yearFounded": 2008,
+      "country": "Alemanha"
+    },
+    {
+      "id": "rakuten-307",
+      "name": "Rakuten",
+      "category": "E-commerce & Varejo",
+      "imageUrl": "/logos/rakuten.svg",
+      "simpleIconsSlug": "rakuten",
+      "difficulty": "médio",
+      "yearFounded": 1997,
+      "country": "Japão"
+    },
+    {
+      "id": "wish-308",
+      "name": "Wish",
+      "category": "E-commerce & Varejo",
+      "imageUrl": "/logos/wish.svg",
+      "simpleIconsSlug": "wish",
+      "difficulty": "médio",
+      "yearFounded": 2010,
+      "country": "EUA"
+    },
+    {
+      "id": "farfetch-309",
+      "name": "Farfetch",
+      "category": "E-commerce & Varejo",
+      "imageUrl": "/logos/farfetch.svg",
+      "simpleIconsSlug": "farfetch",
+      "difficulty": "difícil",
+      "yearFounded": 2007,
+      "country": "Portugal"
+    },
+    {
+      "id": "stockx-310",
+      "name": "StockX",
+      "category": "E-commerce & Varejo",
+      "imageUrl": "/logos/stockx.svg",
+      "simpleIconsSlug": "stockx",
+      "difficulty": "médio",
+      "yearFounded": 2015,
+      "country": "EUA"
+    },
+    {
+      "id": "vinted-311",
+      "name": "Vinted",
+      "category": "E-commerce & Varejo",
+      "imageUrl": "/logos/vinted.svg",
+      "simpleIconsSlug": "vinted",
+      "difficulty": "médio",
+      "yearFounded": 2008,
+      "country": "Lituânia"
+    },
+    {
+      "id": "woocommerce-312",
+      "name": "WooCommerce",
+      "category": "E-commerce & Varejo",
+      "imageUrl": "/logos/woocommerce.svg",
+      "simpleIconsSlug": "woocommerce",
+      "difficulty": "médio",
+      "yearFounded": 2011,
+      "country": "EUA"
+    },
+    {
+      "id": "prestashop-313",
+      "name": "PrestaShop",
+      "category": "E-commerce & Varejo",
+      "imageUrl": "/logos/prestashop.svg",
+      "simpleIconsSlug": "prestashop",
+      "difficulty": "difícil",
+      "yearFounded": 2007,
+      "country": "França"
+    },
+    {
+      "id": "bigcommerce-314",
+      "name": "BigCommerce",
+      "category": "E-commerce & Varejo",
+      "imageUrl": "/logos/bigcommerce.svg",
+      "simpleIconsSlug": "bigcommerce",
+      "difficulty": "difícil",
+      "yearFounded": 2009,
+      "country": "Austrália"
+    },
+    {
+      "id": "shopware-315",
+      "name": "Shopware",
+      "category": "E-commerce & Varejo",
+      "imageUrl": "/logos/shopware.svg",
+      "simpleIconsSlug": "shopware",
+      "difficulty": "difícil",
+      "yearFounded": 2000,
+      "country": "Alemanha"
+    },
+    {
+      "id": "doordash-316",
+      "name": "DoorDash",
+      "category": "E-commerce & Varejo",
+      "imageUrl": "/logos/doordash.svg",
+      "simpleIconsSlug": "doordash",
+      "difficulty": "médio",
+      "yearFounded": 2013,
+      "country": "EUA"
+    },
+    {
+      "id": "ubereats-317",
+      "name": "Uber Eats",
+      "category": "E-commerce & Varejo",
+      "imageUrl": "/logos/ubereats.svg",
+      "simpleIconsSlug": "ubereats",
+      "difficulty": "fácil",
+      "yearFounded": 2014,
+      "country": "EUA"
+    },
+    {
+      "id": "deliveroo-318",
+      "name": "Deliveroo",
+      "category": "E-commerce & Varejo",
+      "imageUrl": "/logos/deliveroo.svg",
+      "simpleIconsSlug": "deliveroo",
+      "difficulty": "médio",
+      "yearFounded": 2013,
+      "country": "Reino Unido"
+    },
+    {
+      "id": "instacart-319",
+      "name": "Instacart",
+      "category": "E-commerce & Varejo",
+      "imageUrl": "/logos/instacart.svg",
+      "simpleIconsSlug": "instacart",
+      "difficulty": "médio",
+      "yearFounded": 2012,
+      "country": "EUA"
+    },
+    {
+      "id": "ifood-320",
+      "name": "iFood",
+      "category": "E-commerce & Varejo",
+      "imageUrl": "/logos/ifood.svg",
+      "simpleIconsSlug": "ifood",
+      "difficulty": "médio",
+      "yearFounded": 2011,
+      "country": "Brasil"
+    },
+    {
+      "id": "justeat-321",
+      "name": "Just Eat",
+      "category": "E-commerce & Varejo",
+      "imageUrl": "/logos/justeat.svg",
+      "simpleIconsSlug": "justeat",
+      "difficulty": "médio",
+      "yearFounded": 2001,
+      "country": "Dinamarca"
+    },
+    {
+      "id": "swiggy-322",
+      "name": "Swiggy",
+      "category": "E-commerce & Varejo",
+      "imageUrl": "/logos/swiggy.svg",
+      "simpleIconsSlug": "swiggy",
+      "difficulty": "médio",
+      "yearFounded": 2014,
+      "country": "Índia"
+    },
+    {
+      "id": "zomato-323",
+      "name": "Zomato",
+      "category": "E-commerce & Varejo",
+      "imageUrl": "/logos/zomato.svg",
+      "simpleIconsSlug": "zomato",
+      "difficulty": "médio",
+      "yearFounded": 2008,
+      "country": "Índia"
+    },
+    {
+      "id": "rappi-324",
+      "name": "Gumroad",
+      "category": "E-commerce & Varejo",
+      "imageUrl": "/logos/gumroad.svg",
+      "simpleIconsSlug": "gumroad",
+      "difficulty": "médio",
+      "yearFounded": 2015,
+      "country": "Colômbia"
+    },
+    {
+      "id": "dhl-325",
+      "name": "DHL",
+      "category": "E-commerce & Varejo",
+      "imageUrl": "/logos/dhl.svg",
+      "simpleIconsSlug": "dhl",
+      "difficulty": "fácil",
+      "yearFounded": 1969,
+      "country": "Alemanha"
+    },
+    {
+      "id": "fedex-326",
+      "name": "FedEx",
+      "category": "E-commerce & Varejo",
+      "imageUrl": "/logos/fedex.svg",
+      "simpleIconsSlug": "fedex",
+      "difficulty": "fácil",
+      "yearFounded": 1971,
+      "country": "EUA"
+    },
+    {
+      "id": "ups-327",
+      "name": "UPS",
+      "category": "E-commerce & Varejo",
+      "imageUrl": "/logos/ups.svg",
+      "simpleIconsSlug": "ups",
+      "difficulty": "fácil",
+      "yearFounded": 1907,
+      "country": "EUA"
+    },
+    {
+      "id": "usps-328",
+      "name": "USPS",
+      "category": "E-commerce & Varejo",
+      "imageUrl": "/logos/usps.svg",
+      "simpleIconsSlug": "usps",
+      "difficulty": "médio",
+      "yearFounded": 1775,
+      "country": "EUA"
+    },
+    {
+      "id": "ikea-329",
+      "name": "IKEA",
+      "category": "E-commerce & Varejo",
+      "imageUrl": "/logos/ikea.svg",
+      "simpleIconsSlug": "ikea",
+      "difficulty": "fácil",
+      "yearFounded": 1943,
+      "country": "Suécia"
+    },
+    {
+      "id": "target-330",
+      "name": "Target",
+      "category": "E-commerce & Varejo",
+      "imageUrl": "/logos/target.svg",
+      "simpleIconsSlug": "target",
+      "difficulty": "médio",
+      "yearFounded": 1902,
+      "country": "EUA"
+    },
+    {
+      "id": "macys-331",
+      "name": "Macy's",
+      "category": "E-commerce & Varejo",
+      "imageUrl": "/logos/macys.svg",
+      "simpleIconsSlug": "macys",
+      "difficulty": "médio",
+      "yearFounded": 1858,
+      "country": "EUA"
+    },
+    {
+      "id": "newegg-332",
+      "name": "Newegg",
+      "category": "E-commerce & Varejo",
+      "imageUrl": "/logos/newegg.svg",
+      "simpleIconsSlug": "newegg",
+      "difficulty": "médio",
+      "yearFounded": 2001,
+      "country": "EUA"
+    },
+    {
+      "id": "medusa-333",
+      "name": "Medusa",
+      "category": "E-commerce & Varejo",
+      "imageUrl": "/logos/medusa.svg",
+      "simpleIconsSlug": "medusa",
+      "difficulty": "difícil",
+      "yearFounded": 2021,
+      "country": "Dinamarca"
+    },
+    {
+      "id": "zendesk-334",
+      "name": "Zendesk",
+      "category": "E-commerce & Varejo",
+      "imageUrl": "/logos/zendesk.svg",
+      "simpleIconsSlug": "zendesk",
+      "difficulty": "médio",
+      "yearFounded": 2007,
+      "country": "Dinamarca"
+    },
+    {
+      "id": "helpscout-335",
+      "name": "Help Scout",
+      "category": "E-commerce & Varejo",
+      "imageUrl": "/logos/helpscout.svg",
+      "simpleIconsSlug": "helpscout",
+      "difficulty": "difícil",
+      "yearFounded": 2011,
+      "country": "EUA"
+    },
+    {
+      "id": "mailchimp-336",
+      "name": "Mailchimp",
+      "category": "E-commerce & Varejo",
+      "imageUrl": "/logos/mailchimp.svg",
+      "simpleIconsSlug": "mailchimp",
+      "difficulty": "médio",
+      "yearFounded": 2001,
+      "country": "EUA"
+    },
+    {
+      "id": "klaviyo-337",
+      "name": "GoFundMe",
+      "category": "E-commerce & Varejo",
+      "imageUrl": "/logos/gofundme.svg",
+      "simpleIconsSlug": "gofundme",
+      "difficulty": "difícil",
+      "yearFounded": 2012,
+      "country": "EUA"
+    },
+    {
+      "id": "wechatpay-338",
+      "name": "Liberapay",
+      "category": "E-commerce & Varejo",
+      "imageUrl": "/logos/liberapay.svg",
+      "simpleIconsSlug": "liberapay",
+      "difficulty": "médio",
+      "yearFounded": 2013,
+      "country": "China"
+    },
+    {
+      "id": "klook-339",
+      "name": "Klook",
+      "category": "E-commerce & Varejo",
+      "imageUrl": "/logos/klook.svg",
+      "simpleIconsSlug": "klook",
+      "difficulty": "difícil",
+      "yearFounded": 2014,
+      "country": "Hong Kong"
+    },
+    {
+      "id": "uber-351",
+      "name": "Uber",
+      "category": "Mobilidade, Viagem & Transporte",
+      "imageUrl": "/logos/uber.svg",
+      "simpleIconsSlug": "uber",
+      "difficulty": "fácil",
+      "yearFounded": 2009,
+      "country": "EUA"
+    },
+    {
+      "id": "lyft-352",
+      "name": "Lyft",
+      "category": "Mobilidade, Viagem & Transporte",
+      "imageUrl": "/logos/lyft.svg",
+      "simpleIconsSlug": "lyft",
+      "difficulty": "médio",
+      "yearFounded": 2012,
+      "country": "EUA"
+    },
+    {
+      "id": "grab-353",
+      "name": "Grab",
+      "category": "Mobilidade, Viagem & Transporte",
+      "imageUrl": "/logos/grab.svg",
+      "simpleIconsSlug": "grab",
+      "difficulty": "médio",
+      "yearFounded": 2012,
+      "country": "Singapura"
+    },
+    {
+      "id": "gojek-354",
+      "name": "Gojek",
+      "category": "Mobilidade, Viagem & Transporte",
+      "imageUrl": "/logos/gojek.svg",
+      "simpleIconsSlug": "gojek",
+      "difficulty": "médio",
+      "yearFounded": 2010,
+      "country": "Indonésia"
+    },
+    {
+      "id": "airbnb-355",
+      "name": "Airbnb",
+      "category": "Mobilidade, Viagem & Transporte",
+      "imageUrl": "/logos/airbnb.svg",
+      "simpleIconsSlug": "airbnb",
+      "difficulty": "fácil",
+      "yearFounded": 2008,
+      "country": "EUA"
+    },
+    {
+      "id": "expedia-356",
+      "name": "Expedia",
+      "category": "Mobilidade, Viagem & Transporte",
+      "imageUrl": "/logos/expedia.svg",
+      "simpleIconsSlug": "expedia",
+      "difficulty": "médio",
+      "yearFounded": 1996,
+      "country": "EUA"
+    },
+    {
+      "id": "tripadvisor-357",
+      "name": "TripAdvisor",
+      "category": "Mobilidade, Viagem & Transporte",
+      "imageUrl": "/logos/tripadvisor.svg",
+      "simpleIconsSlug": "tripadvisor",
+      "difficulty": "médio",
+      "yearFounded": 2000,
+      "country": "EUA"
+    },
+    {
+      "id": "trivago-358",
+      "name": "Trivago",
+      "category": "Mobilidade, Viagem & Transporte",
+      "imageUrl": "/logos/trivago.svg",
+      "simpleIconsSlug": "trivago",
+      "difficulty": "médio",
+      "yearFounded": 2005,
+      "country": "Alemanha"
+    },
+    {
+      "id": "americanairlines-359",
+      "name": "American Airlines",
+      "category": "Mobilidade, Viagem & Transporte",
+      "imageUrl": "/logos/americanairlines.svg",
+      "simpleIconsSlug": "americanairlines",
+      "difficulty": "médio",
+      "yearFounded": 1930,
+      "country": "EUA"
+    },
+    {
+      "id": "delta-360",
+      "name": "Delta Airlines",
+      "category": "Mobilidade, Viagem & Transporte",
+      "imageUrl": "/logos/delta.svg",
+      "simpleIconsSlug": "delta",
+      "difficulty": "médio",
+      "yearFounded": 1925,
+      "country": "EUA"
+    },
+    {
+      "id": "britishairways-361",
+      "name": "British Airways",
+      "category": "Mobilidade, Viagem & Transporte",
+      "imageUrl": "/logos/britishairways.svg",
+      "simpleIconsSlug": "britishairways",
+      "difficulty": "médio",
+      "yearFounded": 1974,
+      "country": "Reino Unido"
+    },
+    {
+      "id": "airfrance-362",
+      "name": "Air France",
+      "category": "Mobilidade, Viagem & Transporte",
+      "imageUrl": "/logos/airfrance.svg",
+      "simpleIconsSlug": "airfrance",
+      "difficulty": "médio",
+      "yearFounded": 1933,
+      "country": "França"
+    },
+    {
+      "id": "lufthansa-363",
+      "name": "Lufthansa",
+      "category": "Mobilidade, Viagem & Transporte",
+      "imageUrl": "/logos/lufthansa.svg",
+      "simpleIconsSlug": "lufthansa",
+      "difficulty": "médio",
+      "yearFounded": 1953,
+      "country": "Alemanha"
+    },
+    {
+      "id": "emirates-364",
+      "name": "Emirates",
+      "category": "Mobilidade, Viagem & Transporte",
+      "imageUrl": "/logos/emirates.svg",
+      "simpleIconsSlug": "emirates",
+      "difficulty": "médio",
+      "yearFounded": 1985,
+      "country": "Emirados Árabes"
+    },
+    {
+      "id": "qatarairways-365",
+      "name": "Qatar Airways",
+      "category": "Mobilidade, Viagem & Transporte",
+      "imageUrl": "/logos/qatarairways.svg",
+      "simpleIconsSlug": "qatarairways",
+      "difficulty": "médio",
+      "yearFounded": 1993,
+      "country": "Qatar"
+    },
+    {
+      "id": "ryanair-366",
+      "name": "Ryanair",
+      "category": "Mobilidade, Viagem & Transporte",
+      "imageUrl": "/logos/ryanair.svg",
+      "simpleIconsSlug": "ryanair",
+      "difficulty": "médio",
+      "yearFounded": 1984,
+      "country": "Irlanda"
+    },
+    {
+      "id": "easyjet-367",
+      "name": "easyJet",
+      "category": "Mobilidade, Viagem & Transporte",
+      "imageUrl": "/logos/easyjet.svg",
+      "simpleIconsSlug": "easyjet",
+      "difficulty": "médio",
+      "yearFounded": 1995,
+      "country": "Reino Unido"
+    },
+    {
+      "id": "klm-368",
+      "name": "KLM",
+      "category": "Mobilidade, Viagem & Transporte",
+      "imageUrl": "/logos/klm.svg",
+      "simpleIconsSlug": "klm",
+      "difficulty": "médio",
+      "yearFounded": 1919,
+      "country": "Holanda"
+    },
+    {
+      "id": "turkishairlines-369",
+      "name": "Turkish Airlines",
+      "category": "Mobilidade, Viagem & Transporte",
+      "imageUrl": "/logos/turkishairlines.svg",
+      "simpleIconsSlug": "turkishairlines",
+      "difficulty": "médio",
+      "yearFounded": 1933,
+      "country": "Turquia"
+    },
+    {
+      "id": "singaporeairlines-370",
+      "name": "Singapore Airlines",
+      "category": "Mobilidade, Viagem & Transporte",
+      "imageUrl": "/logos/singaporeairlines.svg",
+      "simpleIconsSlug": "singaporeairlines",
+      "difficulty": "médio",
+      "yearFounded": 1947,
+      "country": "Singapura"
+    },
+    {
+      "id": "jetblue-371",
+      "name": "JetBlue",
+      "category": "Mobilidade, Viagem & Transporte",
+      "imageUrl": "/logos/jetblue.svg",
+      "simpleIconsSlug": "jetblue",
+      "difficulty": "médio",
+      "yearFounded": 1998,
+      "country": "EUA"
+    },
+    {
+      "id": "airasia-372",
+      "name": "AirAsia",
+      "category": "Mobilidade, Viagem & Transporte",
+      "imageUrl": "/logos/airasia.svg",
+      "simpleIconsSlug": "airasia",
+      "difficulty": "médio",
+      "yearFounded": 1993,
+      "country": "Malásia"
+    },
+    {
+      "id": "aeromexico-373",
+      "name": "Aeroméxico",
+      "category": "Mobilidade, Viagem & Transporte",
+      "imageUrl": "/logos/aeromexico.svg",
+      "simpleIconsSlug": "aeromexico",
+      "difficulty": "difícil",
+      "yearFounded": 1934,
+      "country": "México"
+    },
+    {
+      "id": "wizzair-374",
+      "name": "Wizz Air",
+      "category": "Mobilidade, Viagem & Transporte",
+      "imageUrl": "/logos/wizzair.svg",
+      "simpleIconsSlug": "wizzair",
+      "difficulty": "difícil",
+      "yearFounded": 2003,
+      "country": "Hungria"
+    },
+    {
+      "id": "waze-375",
+      "name": "Waze",
+      "category": "Mobilidade, Viagem & Transporte",
+      "imageUrl": "/logos/waze.svg",
+      "simpleIconsSlug": "waze",
+      "difficulty": "médio",
+      "yearFounded": 2008,
+      "country": "Israel"
+    },
+    {
+      "id": "tomtom-376",
+      "name": "TomTom",
+      "category": "Mobilidade, Viagem & Transporte",
+      "imageUrl": "/logos/tomtom.svg",
+      "simpleIconsSlug": "tomtom",
+      "difficulty": "médio",
+      "yearFounded": 1991,
+      "country": "Holanda"
+    },
+    {
+      "id": "googlemaps-377",
+      "name": "Google Maps",
+      "category": "Mobilidade, Viagem & Transporte",
+      "imageUrl": "/logos/googlemaps.svg",
+      "simpleIconsSlug": "googlemaps",
+      "difficulty": "fácil",
+      "yearFounded": 2005,
+      "country": "EUA"
+    },
+    {
+      "id": "saudia-378",
+      "name": "Saudia",
+      "category": "Mobilidade, Viagem & Transporte",
+      "imageUrl": "/logos/saudia.svg",
+      "simpleIconsSlug": "saudia",
+      "difficulty": "difícil",
+      "yearFounded": 1945,
+      "country": "Arábia Saudita"
+    },
+    {
+      "id": "indigo-379",
+      "name": "IndiGo",
+      "category": "Mobilidade, Viagem & Transporte",
+      "imageUrl": "/logos/indigo.svg",
+      "simpleIconsSlug": "indigo",
+      "difficulty": "difícil",
+      "yearFounded": 2006,
+      "country": "Índia"
+    },
+    {
+      "id": "vespa-380",
+      "name": "Vespa",
+      "category": "Mobilidade, Viagem & Transporte",
+      "imageUrl": "/logos/vespa.svg",
+      "simpleIconsSlug": "vespa",
+      "difficulty": "médio",
+      "yearFounded": 1946,
+      "country": "Itália"
+    },
+    {
+      "id": "alltrails-381",
+      "name": "AllTrails",
+      "category": "Mobilidade, Viagem & Transporte",
+      "imageUrl": "/logos/alltrails.svg",
+      "simpleIconsSlug": "alltrails",
+      "difficulty": "difícil",
+      "yearFounded": 2010,
+      "country": "EUA"
+    },
+    {
+      "id": "komoot-382",
+      "name": "Komoot",
+      "category": "Mobilidade, Viagem & Transporte",
+      "imageUrl": "/logos/komoot.svg",
+      "simpleIconsSlug": "komoot",
+      "difficulty": "difícil",
+      "yearFounded": 2010,
+      "country": "Alemanha"
+    },
+    {
+      "id": "wikiloc-383",
+      "name": "Air Canada",
+      "category": "Mobilidade, Viagem & Transporte",
+      "imageUrl": "/logos/aircanada.svg",
+      "simpleIconsSlug": "aircanada",
+      "difficulty": "difícil",
+      "yearFounded": 2006,
+      "country": "Espanha"
+    },
+    {
+      "id": "hotelsdotcom-384",
+      "name": "Hotels.com",
+      "category": "Mobilidade, Viagem & Transporte",
+      "imageUrl": "/logos/hotelsdotcom.svg",
+      "simpleIconsSlug": "hotelsdotcom",
+      "difficulty": "médio",
+      "yearFounded": 1991,
+      "country": "EUA"
+    },
+    {
+      "id": "couchsurfing-386",
+      "name": "Air China",
+      "category": "Mobilidade, Viagem & Transporte",
+      "imageUrl": "/logos/airchina.svg",
+      "simpleIconsSlug": "airchina",
+      "difficulty": "difícil",
+      "yearFounded": 2004,
+      "country": "EUA"
+    },
+    {
+      "id": "turo-387",
+      "name": "Air India",
+      "category": "Mobilidade, Viagem & Transporte",
+      "imageUrl": "/logos/airindia.svg",
+      "simpleIconsSlug": "airindia",
+      "difficulty": "difícil",
+      "yearFounded": 2009,
+      "country": "EUA"
+    },
+    {
+      "id": "blablacar-388",
+      "name": "Etihad Airways",
+      "category": "Mobilidade, Viagem & Transporte",
+      "imageUrl": "/logos/etihadairways.svg",
+      "simpleIconsSlug": "etihadairways",
+      "difficulty": "médio",
+      "yearFounded": 2006,
+      "country": "França"
+    },
+    {
+      "id": "trainline-389",
+      "name": "Ethiopian Airlines",
+      "category": "Mobilidade, Viagem & Transporte",
+      "imageUrl": "/logos/ethiopianairlines.svg",
+      "simpleIconsSlug": "ethiopianairlines",
+      "difficulty": "difícil",
+      "yearFounded": 1999,
+      "country": "Reino Unido"
+    },
+    {
+      "id": "omio-390",
+      "name": "China Eastern Airlines",
+      "category": "Mobilidade, Viagem & Transporte",
+      "imageUrl": "/logos/chinaeasternairlines.svg",
+      "simpleIconsSlug": "chinaeasternairlines",
+      "difficulty": "difícil",
+      "yearFounded": 2012,
+      "country": "Alemanha"
+    },
+    {
+      "id": "skyscanner-391",
+      "name": "China Southern Airlines",
+      "category": "Mobilidade, Viagem & Transporte",
+      "imageUrl": "/logos/chinasouthernairlines.svg",
+      "simpleIconsSlug": "chinasouthernairlines",
+      "difficulty": "médio",
+      "yearFounded": 2001,
+      "country": "Reino Unido"
+    },
+    {
+      "id": "kayak-392",
+      "name": "Copa Airlines",
+      "category": "Mobilidade, Viagem & Transporte",
+      "imageUrl": "/logos/copaairlines.svg",
+      "simpleIconsSlug": "copaairlines",
+      "difficulty": "médio",
+      "yearFounded": 2004,
+      "country": "EUA"
+    },
+    {
+      "id": "rome2rio-393",
+      "name": "Air Transat",
+      "category": "Mobilidade, Viagem & Transporte",
+      "imageUrl": "/logos/airtransat.svg",
+      "simpleIconsSlug": "airtransat",
+      "difficulty": "difícil",
+      "yearFounded": 2011,
+      "country": "Austrália"
+    },
+    {
+      "id": "heetch-394",
+      "name": "Akasa Air",
+      "category": "Mobilidade, Viagem & Transporte",
+      "imageUrl": "/logos/akasaair.svg",
+      "simpleIconsSlug": "akasaair",
+      "difficulty": "difícil",
+      "yearFounded": 2013,
+      "country": "França"
+    },
+    {
+      "id": "citibike-395",
+      "name": "Air Serbia",
+      "category": "Mobilidade, Viagem & Transporte",
+      "imageUrl": "/logos/airserbia.svg",
+      "simpleIconsSlug": "airserbia",
+      "difficulty": "difícil",
+      "yearFounded": 2013,
+      "country": "EUA"
+    },
+    {
+      "id": "zipcar-396",
+      "name": "China Railway",
+      "category": "Mobilidade, Viagem & Transporte",
+      "imageUrl": "/logos/chinarailway.svg",
+      "simpleIconsSlug": "chinarailway",
+      "difficulty": "difícil",
+      "yearFounded": 2000,
+      "country": "EUA"
+    },
+    {
+      "id": "flixbus-397",
+      "name": "Carrefour",
+      "category": "Mobilidade, Viagem & Transporte",
+      "imageUrl": "/logos/carrefour.svg",
+      "simpleIconsSlug": "carrefour",
+      "difficulty": "médio",
+      "yearFounded": 2011,
+      "country": "Alemanha"
+    },
+    {
+      "id": "hostelworld-398",
+      "name": "Lidl",
+      "category": "Mobilidade, Viagem & Transporte",
+      "imageUrl": "/logos/lidl.svg",
+      "simpleIconsSlug": "lidl",
+      "difficulty": "difícil",
+      "yearFounded": 1999,
+      "country": "Irlanda"
+    },
+    {
+      "id": "momondo-400",
+      "name": "Redbubble",
+      "category": "Mobilidade, Viagem & Transporte",
+      "imageUrl": "/logos/redbubble.svg",
+      "simpleIconsSlug": "redbubble",
+      "difficulty": "difícil",
+      "yearFounded": 2006,
+      "country": "Dinamarca"
+    },
+    {
+      "id": "toyota-401",
+      "name": "Toyota",
+      "category": "Automóveis & Motores",
+      "imageUrl": "/logos/toyota.svg",
+      "simpleIconsSlug": "toyota",
+      "difficulty": "fácil",
+      "yearFounded": 1937,
+      "country": "Japão"
+    },
+    {
+      "id": "honda-402",
+      "name": "Honda",
+      "category": "Automóveis & Motores",
+      "imageUrl": "/logos/honda.svg",
+      "simpleIconsSlug": "honda",
+      "difficulty": "fácil",
+      "yearFounded": 1948,
+      "country": "Japão"
+    },
+    {
+      "id": "ford-403",
+      "name": "Ford",
+      "category": "Automóveis & Motores",
+      "imageUrl": "/logos/ford.svg",
+      "simpleIconsSlug": "ford",
+      "difficulty": "fácil",
+      "yearFounded": 1903,
+      "country": "EUA"
+    },
+    {
+      "id": "bmw-404",
+      "name": "BMW",
+      "category": "Automóveis & Motores",
+      "imageUrl": "/logos/bmw.svg",
+      "simpleIconsSlug": "bmw",
+      "difficulty": "fácil",
+      "yearFounded": 1916,
+      "country": "Alemanha"
+    },
+    {
+      "id": "volkswagen-405",
+      "name": "Volkswagen",
+      "category": "Automóveis & Motores",
+      "imageUrl": "/logos/volkswagen.svg",
+      "simpleIconsSlug": "volkswagen",
+      "difficulty": "fácil",
+      "yearFounded": 1937,
+      "country": "Alemanha"
+    },
+    {
+      "id": "audi-406",
+      "name": "Audi",
+      "category": "Automóveis & Motores",
+      "imageUrl": "/logos/audi.svg",
+      "simpleIconsSlug": "audi",
+      "difficulty": "fácil",
+      "yearFounded": 1909,
+      "country": "Alemanha"
+    },
+    {
+      "id": "porsche-407",
+      "name": "Porsche",
+      "category": "Automóveis & Motores",
+      "imageUrl": "/logos/porsche.svg",
+      "simpleIconsSlug": "porsche",
+      "difficulty": "fácil",
+      "yearFounded": 1931,
+      "country": "Alemanha"
+    },
+    {
+      "id": "ferrari-408",
+      "name": "Ferrari",
+      "category": "Automóveis & Motores",
+      "imageUrl": "/logos/ferrari.svg",
+      "simpleIconsSlug": "ferrari",
+      "difficulty": "fácil",
+      "yearFounded": 1939,
+      "country": "Itália"
+    },
+    {
+      "id": "lamborghini-409",
+      "name": "Lamborghini",
+      "category": "Automóveis & Motores",
+      "imageUrl": "/logos/lamborghini.svg",
+      "simpleIconsSlug": "lamborghini",
+      "difficulty": "fácil",
+      "yearFounded": 1963,
+      "country": "Itália"
+    },
+    {
+      "id": "chevrolet-410",
+      "name": "Chevrolet",
+      "category": "Automóveis & Motores",
+      "imageUrl": "/logos/chevrolet.svg",
+      "simpleIconsSlug": "chevrolet",
+      "difficulty": "fácil",
+      "yearFounded": 1911,
+      "country": "EUA"
+    },
+    {
+      "id": "nissan-411",
+      "name": "Nissan",
+      "category": "Automóveis & Motores",
+      "imageUrl": "/logos/nissan.svg",
+      "simpleIconsSlug": "nissan",
+      "difficulty": "fácil",
+      "yearFounded": 1933,
+      "country": "Japão"
+    },
+    {
+      "id": "hyundai-412",
+      "name": "Hyundai",
+      "category": "Automóveis & Motores",
+      "imageUrl": "/logos/hyundai.svg",
+      "simpleIconsSlug": "hyundai",
+      "difficulty": "fácil",
+      "yearFounded": 1967,
+      "country": "Coreia do Sul"
+    },
+    {
+      "id": "kia-413",
+      "name": "Kia",
+      "category": "Automóveis & Motores",
+      "imageUrl": "/logos/kia.svg",
+      "simpleIconsSlug": "kia",
+      "difficulty": "fácil",
+      "yearFounded": 1944,
+      "country": "Coreia do Sul"
+    },
+    {
+      "id": "mazda-414",
+      "name": "Mazda",
+      "category": "Automóveis & Motores",
+      "imageUrl": "/logos/mazda.svg",
+      "simpleIconsSlug": "mazda",
+      "difficulty": "fácil",
+      "yearFounded": 1920,
+      "country": "Japão"
+    },
+    {
+      "id": "subaru-415",
+      "name": "Subaru",
+      "category": "Automóveis & Motores",
+      "imageUrl": "/logos/subaru.svg",
+      "simpleIconsSlug": "subaru",
+      "difficulty": "médio",
+      "yearFounded": 1953,
+      "country": "Japão"
+    },
+    {
+      "id": "jeep-416",
+      "name": "Jeep",
+      "category": "Automóveis & Motores",
+      "imageUrl": "/logos/jeep.svg",
+      "simpleIconsSlug": "jeep",
+      "difficulty": "médio",
+      "yearFounded": 1941,
+      "country": "EUA"
+    },
+    {
+      "id": "volvo-417",
+      "name": "Volvo",
+      "category": "Automóveis & Motores",
+      "imageUrl": "/logos/volvo.svg",
+      "simpleIconsSlug": "volvo",
+      "difficulty": "médio",
+      "yearFounded": 1927,
+      "country": "Suécia"
+    },
+    {
+      "id": "peugeot-418",
+      "name": "Peugeot",
+      "category": "Automóveis & Motores",
+      "imageUrl": "/logos/peugeot.svg",
+      "simpleIconsSlug": "peugeot",
+      "difficulty": "médio",
+      "yearFounded": 1810,
+      "country": "França"
+    },
+    {
+      "id": "renault-419",
+      "name": "Renault",
+      "category": "Automóveis & Motores",
+      "imageUrl": "/logos/renault.svg",
+      "simpleIconsSlug": "renault",
+      "difficulty": "médio",
+      "yearFounded": 1899,
+      "country": "França"
+    },
+    {
+      "id": "fiat-420",
+      "name": "Fiat",
+      "category": "Automóveis & Motores",
+      "imageUrl": "/logos/fiat.svg",
+      "simpleIconsSlug": "fiat",
+      "difficulty": "médio",
+      "yearFounded": 1899,
+      "country": "Itália"
+    },
+    {
+      "id": "seat-421",
+      "name": "SEAT",
+      "category": "Automóveis & Motores",
+      "imageUrl": "/logos/seat.svg",
+      "simpleIconsSlug": "seat",
+      "difficulty": "médio",
+      "yearFounded": 1950,
+      "country": "Espanha"
+    },
+    {
+      "id": "skoda-422",
+      "name": "Škoda",
+      "category": "Automóveis & Motores",
+      "imageUrl": "/logos/skoda.svg",
+      "simpleIconsSlug": "skoda",
+      "difficulty": "médio",
+      "yearFounded": 1895,
+      "country": "República Tcheca"
+    },
+    {
+      "id": "mitsubishi-423",
+      "name": "Mitsubishi",
+      "category": "Automóveis & Motores",
+      "imageUrl": "/logos/mitsubishi.svg",
+      "simpleIconsSlug": "mitsubishi",
+      "difficulty": "médio",
+      "yearFounded": 1870,
+      "country": "Japão"
+    },
+    {
+      "id": "suzuki-424",
+      "name": "Suzuki",
+      "category": "Automóveis & Motores",
+      "imageUrl": "/logos/suzuki.svg",
+      "simpleIconsSlug": "suzuki",
+      "difficulty": "médio",
+      "yearFounded": 1909,
+      "country": "Japão"
+    },
+    {
+      "id": "mini-425",
+      "name": "MINI",
+      "category": "Automóveis & Motores",
+      "imageUrl": "/logos/mini.svg",
+      "simpleIconsSlug": "mini",
+      "difficulty": "médio",
+      "yearFounded": 1959,
+      "country": "Reino Unido"
+    },
+    {
+      "id": "tesla-426",
+      "name": "Tesla",
+      "category": "Automóveis & Motores",
+      "imageUrl": "/logos/tesla.svg",
+      "simpleIconsSlug": "tesla",
+      "difficulty": "fácil",
+      "yearFounded": 2003,
+      "country": "EUA"
+    },
+    {
+      "id": "bentley-427",
+      "name": "Bentley",
+      "category": "Automóveis & Motores",
+      "imageUrl": "/logos/bentley.svg",
+      "simpleIconsSlug": "bentley",
+      "difficulty": "médio",
+      "yearFounded": 1919,
+      "country": "Reino Unido"
+    },
+    {
+      "id": "rollsroyce-428",
+      "name": "Rolls-Royce",
+      "category": "Automóveis & Motores",
+      "imageUrl": "/logos/rollsroyce.svg",
+      "simpleIconsSlug": "rollsroyce",
+      "difficulty": "médio",
+      "yearFounded": 1906,
+      "country": "Reino Unido"
+    },
+    {
+      "id": "maserati-429",
+      "name": "Maserati",
+      "category": "Automóveis & Motores",
+      "imageUrl": "/logos/maserati.svg",
+      "simpleIconsSlug": "maserati",
+      "difficulty": "médio",
+      "yearFounded": 1914,
+      "country": "Itália"
+    },
+    {
+      "id": "bugatti-430",
+      "name": "Bugatti",
+      "category": "Automóveis & Motores",
+      "imageUrl": "/logos/bugatti.svg",
+      "simpleIconsSlug": "bugatti",
+      "difficulty": "médio",
+      "yearFounded": 1909,
+      "country": "França"
+    },
+    {
+      "id": "ducati-431",
+      "name": "Ducati",
+      "category": "Automóveis & Motores",
+      "imageUrl": "/logos/ducati.svg",
+      "simpleIconsSlug": "ducati",
+      "difficulty": "médio",
+      "yearFounded": 1926,
+      "country": "Itália"
+    },
+    {
+      "id": "ktm-432",
+      "name": "KTM",
+      "category": "Automóveis & Motores",
+      "imageUrl": "/logos/ktm.svg",
+      "simpleIconsSlug": "ktm",
+      "difficulty": "difícil",
+      "yearFounded": 1934,
+      "country": "Áustria"
+    },
+    {
+      "id": "lucid-433",
+      "name": "Lucid Motors",
+      "category": "Automóveis & Motores",
+      "imageUrl": "/logos/lucid.svg",
+      "simpleIconsSlug": "lucid",
+      "difficulty": "difícil",
+      "yearFounded": 2007,
+      "country": "EUA"
+    },
+    {
+      "id": "opel-434",
+      "name": "Opel",
+      "category": "Automóveis & Motores",
+      "imageUrl": "/logos/opel.svg",
+      "simpleIconsSlug": "opel",
+      "difficulty": "médio",
+      "yearFounded": 1862,
+      "country": "Alemanha"
+    },
+    {
+      "id": "citroen-435",
+      "name": "Citroën",
+      "category": "Automóveis & Motores",
+      "imageUrl": "/logos/citroen.svg",
+      "simpleIconsSlug": "citroen",
+      "difficulty": "médio",
+      "yearFounded": 1919,
+      "country": "França"
+    },
+    {
+      "id": "chrysler-436",
+      "name": "Chrysler",
+      "category": "Automóveis & Motores",
+      "imageUrl": "/logos/chrysler.svg",
+      "simpleIconsSlug": "chrysler",
+      "difficulty": "médio",
+      "yearFounded": 1925,
+      "country": "EUA"
+    },
+    {
+      "id": "acura-437",
+      "name": "Acura",
+      "category": "Automóveis & Motores",
+      "imageUrl": "/logos/acura.svg",
+      "simpleIconsSlug": "acura",
+      "difficulty": "médio",
+      "yearFounded": 1986,
+      "country": "Japão"
+    },
+    {
+      "id": "infiniti-438",
+      "name": "INFINITI",
+      "category": "Automóveis & Motores",
+      "imageUrl": "/logos/infiniti.svg",
+      "simpleIconsSlug": "infiniti",
+      "difficulty": "médio",
+      "yearFounded": 1989,
+      "country": "Japão"
+    },
+    {
+      "id": "cadillac-439",
+      "name": "Cadillac",
+      "category": "Automóveis & Motores",
+      "imageUrl": "/logos/cadillac.svg",
+      "simpleIconsSlug": "cadillac",
+      "difficulty": "médio",
+      "yearFounded": 1902,
+      "country": "EUA"
+    },
+    {
+      "id": "polestar-440",
+      "name": "Polestar",
+      "category": "Automóveis & Motores",
+      "imageUrl": "/logos/polestar.svg",
+      "simpleIconsSlug": "polestar",
+      "difficulty": "difícil",
+      "yearFounded": 2017,
+      "country": "Suécia"
+    },
+    {
+      "id": "genesis-441",
+      "name": "General Motors",
+      "category": "Automóveis & Motores",
+      "imageUrl": "/logos/generalmotors.svg",
+      "simpleIconsSlug": "generalmotors",
+      "difficulty": "difícil",
+      "yearFounded": 2015,
+      "country": "Coreia do Sul"
+    },
+    {
+      "id": "ferrarinv-445",
+      "name": "Ferrari N.V.",
+      "category": "Automóveis & Motores",
+      "imageUrl": "/logos/ferrarinv.svg",
+      "simpleIconsSlug": "ferrarinv",
+      "difficulty": "difícil",
+      "yearFounded": 2015,
+      "country": "Holanda"
+    },
+    {
+      "id": "seatgeek-446",
+      "name": "SeatGeek",
+      "category": "Automóveis & Motores",
+      "imageUrl": "/logos/seatgeek.svg",
+      "simpleIconsSlug": "seatgeek",
+      "difficulty": "difícil",
+      "yearFounded": 2009,
+      "country": "EUA"
+    },
+    {
+      "id": "rivian-447",
+      "name": "DS Automobiles",
+      "category": "Automóveis & Motores",
+      "imageUrl": "/logos/dsautomobiles.svg",
+      "simpleIconsSlug": "dsautomobiles",
+      "difficulty": "difícil",
+      "yearFounded": 2009,
+      "country": "EUA"
+    },
+    {
+      "id": "fisker-448",
+      "name": "AutoZone",
+      "category": "Automóveis & Motores",
+      "imageUrl": "/logos/autozone.svg",
+      "simpleIconsSlug": "autozone",
+      "difficulty": "difícil",
+      "yearFounded": 2016,
+      "country": "EUA"
+    },
+    {
+      "id": "nio-449",
+      "name": "Car Throttle",
+      "category": "Automóveis & Motores",
+      "imageUrl": "/logos/carthrottle.svg",
+      "simpleIconsSlug": "carthrottle",
+      "difficulty": "difícil",
+      "yearFounded": 2014,
+      "country": "China"
+    },
+    {
+      "id": "byd-450",
+      "name": "Cardmarket",
+      "category": "Automóveis & Motores",
+      "imageUrl": "/logos/cardmarket.svg",
+      "simpleIconsSlug": "cardmarket",
+      "difficulty": "difícil",
+      "yearFounded": 2003,
+      "country": "China"
+    },
+    {
+      "id": "mcdonalds-451",
+      "name": "McDonald's",
+      "category": "Alimentação, Moda & Esportes",
+      "imageUrl": "/logos/mcdonalds.svg",
+      "simpleIconsSlug": "mcdonalds",
+      "difficulty": "fácil",
+      "yearFounded": 1940,
+      "country": "EUA"
+    },
+    {
+      "id": "burgerking-452",
+      "name": "Burger King",
+      "category": "Alimentação, Moda & Esportes",
+      "imageUrl": "/logos/burgerking.svg",
+      "simpleIconsSlug": "burgerking",
+      "difficulty": "fácil",
+      "yearFounded": 1953,
+      "country": "EUA"
+    },
+    {
+      "id": "kfc-453",
+      "name": "KFC",
+      "category": "Alimentação, Moda & Esportes",
+      "imageUrl": "/logos/kfc.svg",
+      "simpleIconsSlug": "kfc",
+      "difficulty": "fácil",
+      "yearFounded": 1952,
+      "country": "EUA"
+    },
+    {
+      "id": "tacobell-454",
+      "name": "Taco Bell",
+      "category": "Alimentação, Moda & Esportes",
+      "imageUrl": "/logos/tacobell.svg",
+      "simpleIconsSlug": "tacobell",
+      "difficulty": "médio",
+      "yearFounded": 1962,
+      "country": "EUA"
+    },
+    {
+      "id": "starbucks-455",
+      "name": "Starbucks",
+      "category": "Alimentação, Moda & Esportes",
+      "imageUrl": "/logos/starbucks.svg",
+      "simpleIconsSlug": "starbucks",
+      "difficulty": "fácil",
+      "yearFounded": 1971,
+      "country": "EUA"
+    },
+    {
+      "id": "cocacola-456",
+      "name": "Coca-Cola",
+      "category": "Alimentação, Moda & Esportes",
+      "imageUrl": "/logos/cocacola.svg",
+      "simpleIconsSlug": "cocacola",
+      "difficulty": "fácil",
+      "yearFounded": 1886,
+      "country": "EUA"
+    },
+    {
+      "id": "redbull-457",
+      "name": "Red Bull",
+      "category": "Alimentação, Moda & Esportes",
+      "imageUrl": "/logos/redbull.svg",
+      "simpleIconsSlug": "redbull",
+      "difficulty": "fácil",
+      "yearFounded": 1987,
+      "country": "Áustria"
+    },
+    {
+      "id": "monster-458",
+      "name": "Monster Energy",
+      "category": "Alimentação, Moda & Esportes",
+      "imageUrl": "/logos/monster.svg",
+      "simpleIconsSlug": "monster",
+      "difficulty": "médio",
+      "yearFounded": 2002,
+      "country": "EUA"
+    },
+    {
+      "id": "carlsberggroup-459",
+      "name": "Carlsberg",
+      "category": "Alimentação, Moda & Esportes",
+      "imageUrl": "/logos/carlsberggroup.svg",
+      "simpleIconsSlug": "carlsberggroup",
+      "difficulty": "médio",
+      "yearFounded": 1847,
+      "country": "Dinamarca"
+    },
+    {
+      "id": "nike-460",
+      "name": "Nike",
+      "category": "Alimentação, Moda & Esportes",
+      "imageUrl": "/logos/nike.svg",
+      "simpleIconsSlug": "nike",
+      "difficulty": "fácil",
+      "yearFounded": 1964,
+      "country": "EUA"
+    },
+    {
+      "id": "adidas-461",
+      "name": "Adidas",
+      "category": "Alimentação, Moda & Esportes",
+      "imageUrl": "/logos/adidas.svg",
+      "simpleIconsSlug": "adidas",
+      "difficulty": "fácil",
+      "yearFounded": 1949,
+      "country": "EUA"
+    },
+    {
+      "id": "puma-462",
+      "name": "Puma",
+      "category": "Alimentação, Moda & Esportes",
+      "imageUrl": "/logos/puma.svg",
+      "simpleIconsSlug": "puma",
+      "difficulty": "fácil",
+      "yearFounded": 1948,
+      "country": "Alemanha"
+    },
+    {
+      "id": "reebok-463",
+      "name": "Reebok",
+      "category": "Alimentação, Moda & Esportes",
+      "imageUrl": "/logos/reebok.svg",
+      "simpleIconsSlug": "reebok",
+      "difficulty": "médio",
+      "yearFounded": 1958,
+      "country": "Reino Unido"
+    },
+    {
+      "id": "newbalance-464",
+      "name": "New Balance",
+      "category": "Alimentação, Moda & Esportes",
+      "imageUrl": "/logos/newbalance.svg",
+      "simpleIconsSlug": "newbalance",
+      "difficulty": "médio",
+      "yearFounded": 1906,
+      "country": "EUA"
+    },
+    {
+      "id": "underarmour-465",
+      "name": "Under Armour",
+      "category": "Alimentação, Moda & Esportes",
+      "imageUrl": "/logos/underarmour.svg",
+      "simpleIconsSlug": "underarmour",
+      "difficulty": "médio",
+      "yearFounded": 1996,
+      "country": "EUA"
+    },
+    {
+      "id": "fila-466",
+      "name": "FILA",
+      "category": "Alimentação, Moda & Esportes",
+      "imageUrl": "/logos/fila.svg",
+      "simpleIconsSlug": "fila",
+      "difficulty": "médio",
+      "yearFounded": 1911,
+      "country": "Itália"
+    },
+    {
+      "id": "uniqlo-467",
+      "name": "Uniqlo",
+      "category": "Alimentação, Moda & Esportes",
+      "imageUrl": "/logos/uniqlo.svg",
+      "simpleIconsSlug": "uniqlo",
+      "difficulty": "médio",
+      "yearFounded": 1949,
+      "country": "Japão"
+    },
+    {
+      "id": "zara-468",
+      "name": "Zara",
+      "category": "Alimentação, Moda & Esportes",
+      "imageUrl": "/logos/zara.svg",
+      "simpleIconsSlug": "zara",
+      "difficulty": "fácil",
+      "yearFounded": 1975,
+      "country": "Espanha"
+    },
+    {
+      "id": "handm-469",
+      "name": "H&M",
+      "category": "Alimentação, Moda & Esportes",
+      "imageUrl": "/logos/handm.svg",
+      "simpleIconsSlug": "handm",
+      "difficulty": "fácil",
+      "yearFounded": 1947,
+      "country": "Suécia"
+    },
+    {
+      "id": "hermes-470",
+      "name": "Hermès",
+      "category": "Alimentação, Moda & Esportes",
+      "imageUrl": "/logos/hermes.svg",
+      "simpleIconsSlug": "hermes",
+      "difficulty": "médio",
+      "yearFounded": 1837,
+      "country": "França"
+    },
+    {
+      "id": "dior-471",
+      "name": "Dior",
+      "category": "Alimentação, Moda & Esportes",
+      "imageUrl": "/logos/dior.svg",
+      "simpleIconsSlug": "dior",
+      "difficulty": "médio",
+      "yearFounded": 1946,
+      "country": "França"
+    },
+    {
+      "id": "thenorthface-472",
+      "name": "The North Face",
+      "category": "Alimentação, Moda & Esportes",
+      "imageUrl": "/logos/thenorthface.svg",
+      "simpleIconsSlug": "thenorthface",
+      "difficulty": "médio",
+      "yearFounded": 1966,
+      "country": "EUA"
+    },
+    {
+      "id": "unilever-473",
+      "name": "Unilever",
+      "category": "Alimentação, Moda & Esportes",
+      "imageUrl": "/logos/unilever.svg",
+      "simpleIconsSlug": "unilever",
+      "difficulty": "médio",
+      "yearFounded": 1929,
+      "country": "Reino Unido"
+    },
+    {
+      "id": "formula1-474",
+      "name": "Foodpanda",
+      "category": "Alimentação, Moda & Esportes",
+      "imageUrl": "/logos/foodpanda.svg",
+      "simpleIconsSlug": "foodpanda",
+      "difficulty": "médio",
+      "yearFounded": 1950,
+      "country": "Reino Unido"
+    },
+    {
+      "id": "nfl-475",
+      "name": "World Health Organization",
+      "category": "Alimentação, Moda & Esportes",
+      "imageUrl": "/logos/worldhealthorganization.svg",
+      "simpleIconsSlug": "worldhealthorganization",
+      "difficulty": "médio",
+      "yearFounded": 1920,
+      "country": "EUA"
+    },
+    {
+      "id": "dunkin-493",
+      "name": "Transport for London",
+      "category": "Alimentação, Moda & Esportes",
+      "imageUrl": "/logos/transportforlondon.svg",
+      "simpleIconsSlug": "transportforlondon",
+      "difficulty": "médio",
+      "yearFounded": 1950,
+      "country": "EUA"
+    },
+    {
+      "id": "subway-494",
+      "name": "Transport for Ireland",
+      "category": "Alimentação, Moda & Esportes",
+      "imageUrl": "/logos/transportforireland.svg",
+      "simpleIconsSlug": "transportforireland",
+      "difficulty": "médio",
+      "yearFounded": 1965,
+      "country": "EUA"
+    },
+    {
+      "id": "dominos-495",
+      "name": "Automattic",
+      "category": "Alimentação, Moda & Esportes",
+      "imageUrl": "/logos/automattic.svg",
+      "simpleIconsSlug": "automattic",
+      "difficulty": "médio",
+      "yearFounded": 1960,
+      "country": "EUA"
+    },
+    {
+      "id": "pizzahut-496",
+      "name": "Big Cartel",
+      "category": "Alimentação, Moda & Esportes",
+      "imageUrl": "/logos/bigcartel.svg",
+      "simpleIconsSlug": "bigcartel",
+      "difficulty": "médio",
+      "yearFounded": 1958,
+      "country": "EUA"
+    },
+    {
+      "id": "wendys-497",
+      "name": "Beatport",
+      "category": "Alimentação, Moda & Esportes",
+      "imageUrl": "/logos/beatport.svg",
+      "simpleIconsSlug": "beatport",
+      "difficulty": "médio",
+      "yearFounded": 1969,
+      "country": "EUA"
+    },
+    {
+      "id": "grubhub-498",
+      "name": "BeatStars",
+      "category": "Alimentação, Moda & Esportes",
+      "imageUrl": "/logos/beatstars.svg",
+      "simpleIconsSlug": "beatstars",
+      "difficulty": "médio",
+      "yearFounded": 2004,
+      "country": "EUA"
+    }
+  ]
+}

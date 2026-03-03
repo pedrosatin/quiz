@@ -1,0 +1,14 @@
+/** Fisher-Yates in-place shuffle — returns a new shuffled array */
+export function shuffleArray<T>(array: T[]): T[] {
+  const arr = [...array]
+  for (let i = arr.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1))
+    ;[arr[i], arr[j]] = [arr[j], arr[i]]
+  }
+  return arr
+}
+
+/** Pick `count` random items from array without repeating */
+export function pickRandom<T>(array: T[], count: number): T[] {
+  return shuffleArray(array).slice(0, count)
+}
