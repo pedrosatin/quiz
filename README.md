@@ -14,10 +14,10 @@ There's no backend: session state lives in memory (Zustand) while a round is in 
 
 ## Stack
 
-- React 18 + TypeScript, built with Vite
+- React 19 + TypeScript, built with Vite
 - Tailwind CSS v3 for styling, dark mode via a `dark` class on `<html>`
 - Zustand for in-round session state
-- React Router v6 for routing (`/`, `/quiz?category={slug}`, `/results`, `/dashboard`)
+- React Router v7 for routing (`/`, `/quiz?category={slug}`, `/results`, `/dashboard`)
 - Static JSON data in `public/data/`, fetched at runtime rather than bundled
 
 ## Running it
