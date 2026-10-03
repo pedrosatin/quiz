@@ -16,14 +16,6 @@ export function lsSet<T>(key: string, value: T): void {
   }
 }
 
-export function lsRemove(key: string): void {
-  try {
-    localStorage.removeItem(key)
-  } catch {
-    // fail silently
-  }
-}
-
 export function lsClear(): void {
   try {
     const keysToRemove: string[] = []
