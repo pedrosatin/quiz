@@ -2,6 +2,8 @@
 
 A single-page brand-logo quiz. Pick a category, answer ten multiple-choice questions against a 15-second timer per question, and check your accuracy afterward on a dashboard.
 
+Criado por [@pedrosatin](https://github.com/pedrosatin)
+
 ## How it works
 
 - The home screen shows a grid of categories with your progress for the current cycle.
@@ -61,6 +63,10 @@ src/
 ```
 
 `docs/architecture.md` documents routes, components, hooks, and store actions in more detail. `docs/localstorage.md` documents the persisted storage schema (`quiz_analytics`, `quiz_progress_{categorySlug}`, `quiz_settings`).
+
+## Contributing
+
+Contributions are welcome. Please open an issue at https://github.com/pedrosatin/quiz/issues to report bugs or suggest improvements before submitting changes.
 
 ## License
 
